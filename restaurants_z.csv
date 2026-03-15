@@ -1,0 +1,2001 @@
+restaurant_id,name,city,cuisine,rating
+1,"Lewis, Hampton and Johnston",Boylefurt,Indian,4.9
+2,"Doyle, Ortega and Stein",Port Crystalburgh,Italian,3.1
+3,Moon PLC,Bondport,Italian,3.2
+4,"Jones, Herman and Hall",Bonnieberg,Italian,4.9
+5,Hawkins-Stewart,Juliafort,Fast Food,4.8
+6,"Martin, Wilkerson and Stevens",Hendersonstad,Italian,4.1
+7,Smith-Brooks,Jacobton,Italian,3.9
+8,"Carpenter, Peterson and Weaver",Hayeschester,Chinese,4.4
+9,Moore and Sons,Alyssaland,Chinese,3.1
+10,"Smith, Wiley and Oneal",Lake Abigail,Italian,4.2
+11,Campbell LLC,West Danahaven,Fast Food,3.6
+12,Jenkins Ltd,Collinston,Italian,4.5
+13,Mcintosh Inc,Lake Shawn,Italian,3.9
+14,"Rubio, White and Torres",Karenfurt,Indian,3.0
+15,Knox Inc,Port Robyn,Italian,4.3
+16,Barnes Ltd,Pittstown,Italian,4.0
+17,Conley-Molina,Lake Michael,Chinese,4.1
+18,Finley PLC,Thomasland,Indian,4.7
+19,"Perez, Cook and Morris",Port Steven,Fast Food,4.5
+20,Moreno-Lewis,Deannashire,Italian,3.1
+21,"Moore, Hernandez and Martinez",Jenkinsburgh,Indian,4.8
+22,Jacobs Group,Stephanieville,Indian,3.0
+23,Perry-Miller,East Rebeccaville,Italian,4.4
+24,Aguirre Group,East Kristenview,Indian,4.9
+25,Villanueva PLC,New Michael,Italian,3.7
+26,Washington PLC,New Lori,Indian,4.0
+27,Smith-Miles,North Danielleview,Indian,3.9
+28,Sharp PLC,South Carol,Chinese,4.5
+29,Duke-Kennedy,Michaelmouth,Chinese,4.0
+30,"Murillo, Chavez and Hoover",Davidville,Italian,4.9
+31,Armstrong-Brooks,Port Luis,Italian,4.2
+32,"Bonilla, Mayo and Walls",Nicholasmouth,Fast Food,3.9
+33,"Hill, Deleon and Osborne",Port Tylerville,Indian,3.4
+34,"Martin, Hill and Sanchez",Lake Josephstad,Chinese,4.8
+35,"Clark, Olsen and Lee",East Christopher,Italian,4.4
+36,Arroyo-Solis,North Amandaborough,Chinese,3.6
+37,Smith LLC,Stevensmouth,Fast Food,3.8
+38,Pacheco LLC,South Anthony,Chinese,3.7
+39,Taylor-Rogers,Markfurt,Indian,4.8
+40,Owens-Pratt,New Andre,Fast Food,4.6
+41,"Martin, Foster and Smith",Ginaville,Indian,3.2
+42,Doyle LLC,Harveyberg,Chinese,3.9
+43,Pruitt Inc,Bryantland,Fast Food,3.4
+44,Alexander Ltd,Nicholashaven,Fast Food,4.2
+45,Moore and Sons,East Aaronchester,Fast Food,4.0
+46,Golden-Moore,North Daniel,Fast Food,4.0
+47,"Vasquez, Reed and Evans",West Coreyfort,Italian,4.6
+48,"Sparks, Perry and Oliver",Leberg,Chinese,4.5
+49,Case-Martinez,Pattonstad,Italian,4.0
+50,Callahan-Cook,Lake Robertfort,Italian,3.8
+51,"Phillips, Hall and Brown",South Rachaelfort,Italian,4.5
+52,"Gross, Boyd and Ortiz",Lake Sean,Chinese,4.8
+53,"Williams, Williamson and Jimenez",Port Deborah,Chinese,4.8
+54,Hernandez and Sons,New Alec,Italian,4.8
+55,"King, Thompson and Singleton",Carrburgh,Indian,4.7
+56,Castro-Cunningham,Smithside,Chinese,3.0
+57,Salinas-King,Christophertown,Italian,3.1
+58,Wallace Group,Jenniferfort,Italian,3.4
+59,"Hill, Watson and Andrews",Thomasview,Fast Food,4.4
+60,"Williams, Holt and Hines",North Sylviaberg,Chinese,3.1
+61,Vaughn-Dominguez,Robertchester,Fast Food,3.3
+62,Johnson Inc,Brownfort,Fast Food,4.9
+63,"Kim, Parrish and Hudson",East Janet,Indian,4.8
+64,Davis-Rocha,East Heather,Indian,5.0
+65,Lewis-Jones,Gilbertville,Italian,3.0
+66,Carpenter LLC,Edwinchester,Chinese,3.8
+67,Clayton-Johnson,Linfurt,Indian,3.1
+68,Clark-Clark,Acevedoville,Chinese,4.2
+69,"Leonard, Conway and Terrell",North David,Fast Food,5.0
+70,Solis PLC,Lake Deanna,Chinese,3.6
+71,"Ryan, Meyer and Johnson",Port Gary,Fast Food,5.0
+72,Campbell-Hayes,Hillfurt,Indian,4.1
+73,Campos-Rowe,Randyport,Indian,3.6
+74,Gray LLC,Robertton,Indian,4.4
+75,"Knapp, Levine and Cook",Annaburgh,Fast Food,4.2
+76,"Singleton, Henderson and Perry",Palmerside,Fast Food,4.4
+77,Santos Ltd,Pierceside,Fast Food,3.0
+78,Sutton-Bishop,Moralesfurt,Chinese,3.4
+79,"Zimmerman, Peck and Lopez",Marymouth,Chinese,4.6
+80,Fisher LLC,Sarashire,Fast Food,3.7
+81,Sanchez Ltd,Port Nicholas,Italian,4.2
+82,Lee Ltd,Michaelview,Fast Food,3.9
+83,Smith-Wood,West Sharonville,Italian,4.9
+84,"Mcconnell, Tran and Arroyo",Melissachester,Italian,4.3
+85,Jones-Ortiz,Lake Jacquelinestad,Italian,4.9
+86,Fuentes-Adams,Spencerchester,Chinese,4.7
+87,Ward PLC,South Davidborough,Italian,3.8
+88,Mills Inc,Port Cesar,Fast Food,3.8
+89,"Cortez, Owens and Steele",Pittmanfurt,Fast Food,3.7
+90,Johnston-Kent,North Kristinchester,Chinese,4.7
+91,"Murray, Yates and Smith",Amandachester,Indian,3.9
+92,"Horton, Garcia and Hill",Ambermouth,Indian,3.5
+93,Lucas and Sons,South Robert,Italian,3.4
+94,Bailey-Adkins,Port Francisco,Chinese,4.4
+95,"Hill, Santiago and Hernandez",South Jodi,Italian,3.5
+96,Mcdowell-Lin,Lake Michaeltown,Chinese,4.0
+97,Yoder Ltd,Joshuaton,Italian,4.1
+98,Lam and Sons,Port Emilyhaven,Fast Food,4.4
+99,Little and Sons,West Anitafurt,Indian,3.1
+100,"Hopkins, Meyer and Ferrell",North Christinefurt,Fast Food,3.3
+101,Hays PLC,Delacruzview,Chinese,3.1
+102,Haas and Sons,Munozfurt,Fast Food,3.1
+103,Scott Inc,West Kelli,Fast Food,3.3
+104,"Jenkins, Smith and Grant",West Rebecca,Fast Food,3.5
+105,"Lane, Phelps and Blair",Andersonmouth,Chinese,3.2
+106,"Clark, Riley and Rogers",West Francis,Chinese,4.0
+107,Smith LLC,North Jessica,Chinese,4.5
+108,Hoover-Landry,New Joshuatown,Indian,3.5
+109,Williams PLC,Lake Justinchester,Italian,5.0
+110,"Velez, Fernandez and Mcdonald",New Kayleestad,Chinese,3.9
+111,Taylor Inc,New Brian,Chinese,3.0
+112,Keller LLC,Davisport,Italian,3.7
+113,"Coleman, Thomas and Mccormick",South Lynnburgh,Indian,3.0
+114,"Jones, Holmes and Powers",North Kendra,Fast Food,3.7
+115,Carlson Ltd,Benjaminborough,Chinese,4.9
+116,Lee LLC,Lake Brandi,Italian,4.1
+117,Mcdowell and Sons,Lake Andrealand,Italian,4.2
+118,"Rivera, Joyce and Flynn",Austinmouth,Indian,4.1
+119,Schaefer-Castro,Longborough,Italian,4.2
+120,Schneider-Williamson,Ryanport,Italian,3.4
+121,"Douglas, Lam and Thompson",East Ralph,Italian,4.0
+122,Dixon Ltd,Lake Michaelbury,Chinese,3.8
+123,"Davis, Johnson and Levy",Laurieport,Italian,4.5
+124,"Price, Chapman and Johnson",Rebeccashire,Italian,5.0
+125,Miles-Fischer,Houstonborough,Italian,3.9
+126,Sullivan-Wolf,East Rebecca,Fast Food,3.3
+127,Brooks-Perez,Lindseymouth,Italian,4.5
+128,Kelly LLC,South Valeriehaven,Chinese,3.9
+129,Townsend LLC,Mcclaintown,Indian,4.8
+130,"Nguyen, Li and Wong",New Andrew,Fast Food,4.8
+131,Johnson-Martinez,Stevenfort,Fast Food,3.1
+132,"Reed, Hall and Garcia",West Luke,Italian,4.6
+133,Medina Ltd,Ortegamouth,Indian,4.4
+134,Miller Inc,Seanville,Chinese,4.4
+135,Navarro PLC,Mcdonaldfort,Italian,4.4
+136,"Oneal, Kerr and Anderson",Port Justin,Indian,4.0
+137,"Padilla, Mcmahon and Jefferson",Perezland,Chinese,4.3
+138,"Walters, Keller and Carson",South Cynthiashire,Indian,3.8
+139,"Perez, Hall and Tucker",Charlesfort,Fast Food,4.4
+140,"Lee, Mercado and Morgan",Port Kylefurt,Italian,3.2
+141,Christian PLC,East Carolyn,Italian,4.0
+142,Jennings-Ochoa,Port Amandamouth,Italian,3.2
+143,Bell-Duke,Manningview,Fast Food,4.6
+144,"Rivas, Schaefer and Garcia",Hallchester,Fast Food,3.9
+145,"Smith, Hernandez and Bruce",Hendersonstad,Indian,4.0
+146,Weiss-Bennett,North Lisatown,Chinese,4.5
+147,Reynolds-Stanley,East Martin,Chinese,3.1
+148,Miller PLC,Port Michaelborough,Chinese,3.3
+149,Johnson-Arroyo,North Richardmouth,Chinese,3.9
+150,"Kelly, Hamilton and Lopez",Samuelburgh,Fast Food,3.9
+151,"Gill, Thomas and Wilson",Lake Shannonland,Indian,4.6
+152,"Hogan, Santana and Stokes",Lake Jeremy,Chinese,3.7
+153,Peterson-Heath,West Victoriaborough,Italian,4.0
+154,"Peterson, Mccall and Chang",Coxville,Italian,4.9
+155,May-Russell,South John,Indian,3.4
+156,"Price, Everett and Wong",East Kaitlinburgh,Fast Food,4.3
+157,Bryant-Rowe,West Logan,Fast Food,4.1
+158,Lopez and Sons,New Keith,Indian,4.8
+159,Roberts LLC,Joelberg,Italian,3.7
+160,"Bridges, Ferguson and Wallace",South Craigchester,Chinese,4.0
+161,Garcia LLC,Carterberg,Fast Food,3.0
+162,Walker Ltd,Kevinport,Chinese,3.5
+163,"Cooley, Patton and Adams",North Krististad,Indian,4.0
+164,"James, Washington and Johnson",South Ashley,Fast Food,3.7
+165,James-Glenn,South Ninamouth,Fast Food,3.7
+166,"Phillips, Hamilton and Watts",West Anthony,Fast Food,4.5
+167,"Davis, Hart and Wilcox",Lake Maryberg,Chinese,4.0
+168,"Moore, Ortiz and Wade",South Debbieburgh,Chinese,4.4
+169,Lee-Lopez,Kaneview,Italian,4.0
+170,Frank and Sons,North Spencer,Italian,4.6
+171,Browning-Murillo,East Richardborough,Fast Food,4.0
+172,Lane-Meyer,New Dawnmouth,Indian,3.4
+173,Austin LLC,Spencerside,Italian,4.2
+174,"Gregory, Johnson and Davis",Rileyville,Chinese,4.7
+175,Moore Inc,Cardenasburgh,Italian,3.4
+176,Buckley Group,Jonesberg,Italian,4.9
+177,"Smith, Thomas and Smith",South Timothyport,Chinese,4.8
+178,Kane PLC,Joshuachester,Chinese,4.2
+179,"Brown, Berry and Rangel",Port Justinside,Fast Food,4.7
+180,Myers LLC,North Charles,Italian,4.5
+181,Davis Group,South Virginia,Chinese,3.6
+182,Johnson LLC,West Susanfort,Italian,3.8
+183,"Collins, Adams and Lewis",Taylorside,Chinese,4.4
+184,Brown LLC,Port Anthony,Italian,3.2
+185,Wolfe PLC,Dorothyberg,Fast Food,4.8
+186,Henderson Ltd,North Sarah,Chinese,4.2
+187,Roy and Sons,Hilltown,Italian,3.3
+188,Rivera-Hall,Port Andrew,Indian,4.8
+189,"Cruz, Daniels and Fisher",Lake Barbarabury,Indian,3.1
+190,Knapp Ltd,Shermanborough,Fast Food,3.3
+191,Smith-Gonzalez,New Edwardfort,Italian,3.8
+192,"Randall, Ward and Shelton",Hayeston,Indian,3.2
+193,Durham LLC,West Michelle,Fast Food,3.0
+194,Welch-Hale,Richland,Chinese,3.9
+195,Robinson-Johnson,East Meganton,Chinese,3.2
+196,Rivera LLC,New Patriciaside,Chinese,3.2
+197,Mcbride PLC,West Scottstad,Fast Food,4.4
+198,"Curry, Thompson and Warren",Hannahside,Indian,4.2
+199,Lewis-Fuller,Port Kimberly,Italian,4.5
+200,Atkins-Williams,Port Timothy,Chinese,4.7
+201,Ellis-Smith,Michelletown,Italian,4.2
+202,"Oneal, Butler and Kerr",Andrewmouth,Chinese,4.3
+203,Flores-King,South Allenland,Indian,3.7
+204,Sanders PLC,West Matthew,Italian,3.2
+205,Morton Group,Penamouth,Italian,3.2
+206,Moon and Sons,Andreamouth,Italian,4.4
+207,Thompson Inc,New Christophertown,Indian,3.1
+208,"King, Baker and Li",Port Andre,Chinese,4.2
+209,"Moreno, Armstrong and Nolan",Ginashire,Indian,4.9
+210,"Pitts, Mcdonald and Gregory",Lake Jonathanshire,Chinese,3.7
+211,Murray Ltd,Port Julie,Italian,4.2
+212,Rhodes-Sullivan,New Brittany,Indian,4.5
+213,Lewis Inc,Millerfort,Fast Food,3.9
+214,"Jones, Wagner and Mitchell",New Natashaport,Italian,5.0
+215,Brewer-Donaldson,South Sandra,Chinese,4.9
+216,Herrera Group,Hernandezchester,Indian,3.7
+217,"Stevens, Garcia and Thompson",Lopezburgh,Chinese,3.8
+218,"Horne, Jones and Mitchell",New Jerryfurt,Fast Food,4.9
+219,Hobbs-Welch,West Timothy,Chinese,3.2
+220,Caldwell Group,Lorishire,Chinese,4.5
+221,Scott Ltd,New Brittany,Italian,3.3
+222,"Acosta, Shaffer and Austin",Lake Jasmineview,Chinese,3.5
+223,"Crosby, Preston and Lopez",Lake Deborah,Chinese,5.0
+224,Acosta and Sons,South Kennethburgh,Italian,4.4
+225,Johnson-Burnett,Nathanton,Indian,3.8
+226,Patterson and Sons,South Hannahfort,Italian,3.6
+227,"Cunningham, Woods and Clark",East Mariaburgh,Indian,3.9
+228,Martinez LLC,Ryanmouth,Indian,4.4
+229,"Gordon, Hansen and Lopez",Port Ericport,Chinese,4.3
+230,"Smith, Murray and Hicks",Garnerstad,Fast Food,3.6
+231,Jackson PLC,Martinfort,Indian,3.8
+232,Yang-Hawkins,Katherineburgh,Indian,3.9
+233,Mcknight Group,Port Melaniehaven,Italian,4.9
+234,Blake-Kelly,Jamesstad,Fast Food,3.5
+235,"Gutierrez, Brown and Harris",West Sherrifurt,Italian,3.1
+236,Johnson and Sons,Soliston,Fast Food,3.6
+237,"Hancock, Miller and Martinez",East Shannonmouth,Fast Food,4.7
+238,English-Barker,West Tiffany,Fast Food,4.8
+239,"Mccormick, Le and Mcclain",West Lauraberg,Indian,3.6
+240,Boyd-Davis,Lake Keith,Italian,3.0
+241,Reynolds PLC,Skinnerfurt,Fast Food,4.7
+242,Phillips-Gutierrez,Heathmouth,Italian,3.6
+243,Parker-George,New Ianstad,Italian,3.5
+244,"Bryant, Duran and Moran",Dustintown,Chinese,4.8
+245,Sims PLC,Port Charlesview,Italian,3.7
+246,Savage Ltd,Port Alan,Indian,4.6
+247,Christensen and Sons,Rebeccaview,Italian,4.2
+248,"Jones, Torres and Jackson",Cobbville,Fast Food,3.2
+249,"Barrera, Martinez and Turner",West Judithburgh,Indian,4.7
+250,Riddle-Wade,Morenoton,Italian,3.4
+251,Marshall Ltd,Chelseyshire,Fast Food,3.8
+252,Johnson Group,Richardschester,Indian,3.3
+253,Fletcher-Black,Valeriemouth,Fast Food,3.8
+254,Rowland-Clark,Marialand,Italian,3.4
+255,"Martin, Stewart and Lewis",Sanchezton,Italian,3.4
+256,"Powell, Martin and Smith",Lifort,Fast Food,5.0
+257,"Palmer, Hudson and Moreno",Port Donnaview,Indian,3.5
+258,Schmidt-Butler,Smithside,Fast Food,4.1
+259,Smith-Williams,North David,Indian,4.1
+260,Mcclure Group,West Melissa,Italian,4.6
+261,Stevenson-Hogan,South Samuel,Italian,4.6
+262,Richards PLC,West Patrick,Italian,3.7
+263,"Price, Gray and Buchanan",Brittanyton,Italian,3.6
+264,Welch Inc,Port Johnside,Italian,4.5
+265,"Pham, Porter and Ortiz",Port Tony,Fast Food,3.7
+266,Cunningham Ltd,Huffview,Indian,3.4
+267,Turner-Wilson,Ashleyberg,Italian,3.6
+268,"Chapman, Nielsen and Collins",West Courtneyborough,Chinese,3.2
+269,Travis-Coleman,East James,Chinese,4.7
+270,Martinez-Spears,Port Jennifer,Fast Food,4.5
+271,Wilson-Scott,Kellymouth,Italian,3.4
+272,Burnett and Sons,Millerberg,Indian,3.2
+273,Hamilton Ltd,Greenberg,Chinese,3.4
+274,Lee and Sons,North Brandonburgh,Italian,4.2
+275,Lee-Garcia,Davidberg,Italian,4.7
+276,Pope Group,Sparksshire,Chinese,3.1
+277,"Dominguez, Ward and Summers",Tylerton,Italian,3.3
+278,Noble LLC,Rodriguezborough,Chinese,4.2
+279,"Jones, Harris and Alvarez",Port Amanda,Chinese,4.6
+280,Aguilar Ltd,Maynardmouth,Fast Food,4.8
+281,"Kelly, Wilson and Grimes",Lake Mikaylaville,Indian,4.5
+282,Mack Inc,East Rebeccaton,Italian,4.8
+283,Drake and Sons,Davidborough,Fast Food,4.9
+284,Mcdaniel-Jimenez,South Rick,Italian,3.3
+285,"Robinson, Potts and Park",Craigside,Chinese,4.7
+286,"Cunningham, Kennedy and Boone",Hayleychester,Italian,3.8
+287,Harris Ltd,Lake Dorothy,Fast Food,4.4
+288,Thompson Group,North Aaron,Chinese,4.3
+289,"Jensen, Davidson and Wright",South Lisa,Fast Food,3.7
+290,Watkins Group,Ericabury,Fast Food,4.2
+291,"Barber, Logan and Bailey",Johnsonborough,Indian,4.9
+292,Gibbs-Cox,Territown,Indian,3.4
+293,Stevenson PLC,Wallaceview,Fast Food,3.8
+294,Moon PLC,Bushside,Italian,3.5
+295,"Johnson, Bridges and Cole",Beckerland,Chinese,4.8
+296,"Wagner, Tucker and Barton",Aprilton,Italian,4.6
+297,"Keith, Griffin and Maddox",Taylorfort,Italian,4.3
+298,Walsh PLC,Nicoleburgh,Chinese,4.5
+299,Rojas LLC,North Alicia,Indian,4.6
+300,Edwards PLC,North Jesse,Fast Food,4.9
+301,Martinez-Sanchez,Nortonburgh,Indian,5.0
+302,Johns-Poole,South Natalieburgh,Indian,4.9
+303,"Sanchez, Olsen and Green",Port Charlesshire,Fast Food,4.1
+304,Bennett-Barrett,South Tina,Indian,3.2
+305,Yates-Powell,Richardton,Italian,3.6
+306,"Odom, Delgado and Marsh",Karenbury,Fast Food,4.6
+307,Martinez-Davis,West Michaelborough,Chinese,4.4
+308,"Deleon, Barajas and Carter",West Robin,Italian,4.4
+309,Bailey-Williams,Danielport,Fast Food,3.3
+310,Cain-Anderson,Kennedyton,Fast Food,4.2
+311,"Vaughn, Clarke and Brooks",Lopezmouth,Italian,4.5
+312,Anderson-Crawford,Port Matthewmouth,Chinese,3.9
+313,Adkins-Garza,Gabrielport,Italian,4.2
+314,Simpson LLC,Brianfort,Chinese,4.7
+315,Gates-Moore,East Morgan,Italian,3.3
+316,"Moore, Ballard and Morrison",Andersonmouth,Indian,4.6
+317,Blake and Sons,Kellyberg,Fast Food,3.8
+318,Best-Johnson,Port John,Indian,4.8
+319,"Carter, Thompson and Martinez",Tannerburgh,Chinese,3.0
+320,Smith-Lopez,Campbellburgh,Fast Food,5.0
+321,Sandoval and Sons,Chadton,Indian,3.7
+322,Webb-Peterson,Geoffreyburgh,Chinese,3.1
+323,Moore Group,Port Deborah,Italian,4.1
+324,Thomas Inc,West Ethanville,Indian,3.1
+325,Lam-Ruiz,Kristyshire,Fast Food,4.5
+326,"Curtis, Castro and Cook",Smithberg,Indian,3.8
+327,Meadows-Lucas,West Jamesborough,Indian,3.3
+328,"Cantrell, Moon and Ruiz",South Emily,Chinese,4.3
+329,"Booth, Moore and Benson",Mccoychester,Fast Food,4.8
+330,Elliott-Camacho,North Melissa,Fast Food,3.1
+331,Liu-Jones,Port Diane,Chinese,4.9
+332,"Lloyd, Graham and Zimmerman",Kennethport,Chinese,4.8
+333,Pearson-Love,West Michaelshire,Chinese,3.7
+334,"Anderson, Moran and Collins",New Andrewtown,Fast Food,4.7
+335,"Sutton, Andrews and Cummings",Smithhaven,Indian,4.2
+336,"Castro, Harrell and Jones",Leefurt,Indian,4.6
+337,Tran-Smith,Vazquezport,Italian,3.5
+338,"Gentry, Ibarra and Gomez",Austinmouth,Indian,3.1
+339,"Moore, Herring and Thornton",Eduardotown,Chinese,3.1
+340,"Cunningham, Gilbert and Rodriguez",West Dustinfurt,Italian,3.8
+341,"Ingram, Tran and Garcia",Haasmouth,Indian,3.8
+342,Potts-Cooke,Hernandezside,Italian,4.9
+343,Mendez Group,Robbinstown,Italian,4.2
+344,Chavez-Anderson,Wolfland,Indian,4.2
+345,"Booth, Garcia and Newton",Lauraton,Indian,4.2
+346,Jimenez PLC,Marcusfurt,Indian,3.8
+347,Cooper-Hinton,North Monica,Fast Food,3.1
+348,Powell-Burgess,Smithtown,Fast Food,4.6
+349,Rush-Casey,Leeburgh,Indian,4.9
+350,Lee-Ray,New Samuelbury,Fast Food,3.7
+351,Soto LLC,Mccallport,Indian,3.4
+352,Castro Ltd,Caseside,Fast Food,3.2
+353,Kennedy Inc,Pettymouth,Chinese,4.7
+354,Jenkins LLC,Coleville,Italian,5.0
+355,Brady and Sons,New Monica,Fast Food,4.6
+356,"Hamilton, Thornton and Ochoa",Allenfurt,Chinese,3.3
+357,Garcia-Keller,Lake Gordon,Italian,5.0
+358,Ortega-Russo,Murphytown,Chinese,4.0
+359,Clark-Anderson,East Melanie,Fast Food,3.6
+360,Martin and Sons,Joditon,Indian,4.5
+361,"Craig, Jackson and Potter",Monicaburgh,Fast Food,3.5
+362,"Bean, Green and Little",East Dorothy,Italian,4.5
+363,Martin-Romero,South Melissa,Fast Food,3.9
+364,Greer Ltd,Calderonfort,Indian,4.8
+365,"Merritt, Simpson and Dougherty",Lake Tammy,Fast Food,4.8
+366,Carlson-Fuller,East Ariel,Fast Food,4.2
+367,"Roth, Smith and Rush",Port Russell,Indian,4.8
+368,Parker-Blake,Rollinsborough,Italian,4.8
+369,Ayala LLC,Port Robertfort,Fast Food,4.6
+370,Nelson-Little,Port Jermainestad,Italian,3.5
+371,Green LLC,Patelhaven,Italian,4.7
+372,Brown Inc,Marvinmouth,Fast Food,4.1
+373,Mueller-Ward,West Andreview,Chinese,4.0
+374,Bell Ltd,West Christopher,Chinese,3.6
+375,Nelson Inc,Sanchezton,Chinese,4.1
+376,James-Ingram,Lake Brittneyside,Chinese,4.7
+377,Burton and Sons,Lake Maria,Italian,3.9
+378,Mitchell LLC,Port Carol,Italian,4.6
+379,Castro-Sandoval,Sheilaside,Fast Food,3.6
+380,Salazar-Cortez,East Scottfurt,Fast Food,4.9
+381,Jordan Inc,North Chelseaport,Italian,4.2
+382,Larsen Group,Marialand,Chinese,3.9
+383,"Fields, Wilson and Campbell",Michelleview,Chinese,3.9
+384,Carpenter Ltd,North Jeffreyland,Fast Food,4.8
+385,Woodward PLC,New Steven,Italian,4.9
+386,"Brooks, Hahn and Ware",Carlosbury,Chinese,4.1
+387,Walters-Morales,Port Jeanneburgh,Italian,3.5
+388,Perry Group,Paulton,Italian,4.0
+389,"Smith, Knapp and Curtis",Walterview,Fast Food,3.7
+390,Moore-Ball,Carolview,Italian,4.7
+391,Patel-Wood,Sherihaven,Indian,3.9
+392,"Olson, Howard and Dawson",North Brandonburgh,Indian,4.6
+393,Smith-Salazar,South Carmenstad,Italian,3.8
+394,Mann Inc,East Joseton,Chinese,3.4
+395,Carroll-Rivera,Tinaview,Fast Food,4.1
+396,"Colon, Jackson and Macdonald",Jayberg,Fast Food,3.4
+397,"Huff, Gibson and Wilkinson",Lake Kevin,Fast Food,3.8
+398,Howard PLC,Annborough,Fast Food,3.2
+399,Jones-Montgomery,Pachecofort,Fast Food,3.5
+400,Smith Inc,Ruizfurt,Chinese,4.8
+401,"Hensley, Wilson and Rose",Whitefurt,Chinese,3.1
+402,Figueroa-Hawkins,Vazquezmouth,Italian,4.5
+403,"Evans, Smith and Phillips",Port Richard,Italian,3.7
+404,Chase PLC,Cookton,Fast Food,3.6
+405,Snow PLC,Robertview,Fast Food,3.4
+406,"Todd, Bowen and Herrera",Jefferyborough,Italian,4.1
+407,Brown LLC,North Kennethchester,Indian,4.6
+408,Hunt-Fry,Kennethstad,Italian,4.9
+409,Oliver Ltd,Heatherview,Indian,4.9
+410,Perry-Mendoza,Parrishbury,Indian,4.6
+411,"Moore, Myers and Ross",Port Jonathon,Italian,5.0
+412,Clark Inc,Fritzborough,Fast Food,4.9
+413,Jackson-Mclean,South Robert,Indian,3.7
+414,"Mitchell, Thomas and Weaver",Kleinberg,Fast Food,3.6
+415,"Li, Wolf and Gibson",Port Benjaminburgh,Indian,4.4
+416,"Ward, Bradford and Keith",Manuelfurt,Indian,4.9
+417,"White, Robertson and Norton",Lake Danielle,Chinese,4.7
+418,Evans-Moore,Martinhaven,Chinese,3.6
+419,Barnes-Salazar,Amandahaven,Indian,3.7
+420,"Perez, Myers and Dickerson",New Rebecca,Chinese,3.9
+421,West-Davis,Johnsonstad,Fast Food,3.3
+422,Morton-Coleman,East Isabelport,Indian,4.4
+423,"Thompson, Hernandez and Miller",Duartehaven,Fast Food,4.2
+424,Williams PLC,Hardyland,Indian,3.1
+425,Baker PLC,Port Bryanborough,Italian,3.5
+426,"Haley, Gonzalez and Alvarado",East Christina,Chinese,4.3
+427,Diaz Ltd,West Kennethfort,Italian,3.8
+428,"Walker, Taylor and James",Williamschester,Fast Food,3.1
+429,Collier Group,Stephenfurt,Chinese,4.9
+430,Smith-Gutierrez,Robertview,Italian,3.6
+431,Watson-Shaffer,North Stephanie,Indian,3.6
+432,Carlson-Osborne,Justinville,Italian,4.9
+433,Kelley PLC,Port Melody,Fast Food,3.4
+434,Horn-Rosario,Kellyland,Fast Food,3.2
+435,Alexander PLC,South Sabrina,Fast Food,4.4
+436,"Lowe, Davis and Joseph",North Jenniferville,Chinese,4.9
+437,"Shaw, Frost and Santiago",New Jerrychester,Chinese,3.8
+438,Charles-Wilkerson,Port Jamesmouth,Italian,4.6
+439,"Williams, Coleman and Jackson",Davidshire,Chinese,4.0
+440,King-Hanson,Fischerbury,Italian,4.6
+441,Ellis-Price,New Jaime,Chinese,4.3
+442,"Reyes, Phillips and Miller",Marytown,Chinese,5.0
+443,Lee PLC,Rebeccaside,Chinese,4.6
+444,Luna Inc,Randallchester,Italian,3.1
+445,James Inc,Ashleyfort,Chinese,4.6
+446,Owen LLC,New Joshuaberg,Fast Food,3.5
+447,"Robinson, Gregory and Haynes",Martinezfort,Fast Food,4.2
+448,Rodriguez-Ramirez,Lake Josephchester,Fast Food,3.0
+449,Reed Group,North Patrickville,Chinese,3.8
+450,"Roy, Phillips and Odonnell",New Christophermouth,Fast Food,3.1
+451,Williams-Downs,Lawrencemouth,Fast Food,3.8
+452,"Hammond, Woodard and Williams",North Jessicaville,Italian,3.6
+453,"Smith, Lee and Perez",South Ashley,Fast Food,4.2
+454,Lewis PLC,East Troytown,Italian,4.9
+455,Harris Ltd,Lake Kristy,Indian,4.4
+456,Oliver-Henderson,North Kristishire,Italian,4.1
+457,"Bray, Medina and Cook",North Corymouth,Fast Food,3.0
+458,"Wilson, Smith and Bell",Johnsonberg,Chinese,4.1
+459,"Smith, Romero and White",Nancyberg,Indian,4.7
+460,Johnson LLC,North Oscarbury,Indian,3.8
+461,Reid Group,Millerfurt,Italian,4.5
+462,Bennett-Garrett,Danielton,Indian,3.6
+463,"Jackson, Smith and Brown",East Bethbury,Chinese,4.1
+464,Keith Group,Kimberlybury,Indian,3.8
+465,Murray-Johnson,New Tina,Italian,4.4
+466,Perkins-Medina,Sanchezbury,Chinese,4.5
+467,Watson LLC,South Lauren,Chinese,5.0
+468,"Hardy, Hammond and Spence",Port Paulburgh,Italian,3.6
+469,Pitts-Smith,Blackview,Italian,3.6
+470,Neal and Sons,New Joyceburgh,Fast Food,3.1
+471,"Reid, Harris and Dean",East Gregory,Italian,3.0
+472,"Thomas, Thompson and Anderson",North William,Indian,3.3
+473,Hays PLC,South Jorgechester,Italian,4.9
+474,Jackson Group,New Samuel,Italian,4.7
+475,Preston-Mejia,Grahamland,Indian,4.6
+476,Benson Group,Andrewberg,Indian,4.2
+477,"Bass, Pacheco and Harris",South Miranda,Italian,4.6
+478,Foster-White,Jadeshire,Fast Food,3.0
+479,Cunningham Inc,Brownville,Indian,4.0
+480,"Kemp, Jimenez and Martinez",Turnerchester,Chinese,4.3
+481,Cook-Barker,Port Zachary,Fast Food,3.7
+482,Mahoney Ltd,Murrayhaven,Fast Food,3.5
+483,"Bowers, Harmon and Reid",Ninaberg,Italian,4.6
+484,Smith PLC,East Brandon,Chinese,4.7
+485,"Meyer, Hawkins and Pineda",Taylorbury,Fast Food,4.0
+486,"Neal, Clark and Mckay",North Kimberlyberg,Italian,3.8
+487,Allen PLC,Geraldbury,Fast Food,3.1
+488,"Woods, Heath and Howell",Kennedyhaven,Fast Food,4.7
+489,"Howard, Wilson and Meyer",Hensleystad,Chinese,4.9
+490,Rogers-Acosta,Port Michael,Chinese,3.9
+491,"Logan, Lopez and Parker",North Josephbury,Italian,3.2
+492,"Navarro, Barnes and Ryan",Amandaville,Indian,3.7
+493,"Davis, Davis and Johnson",East Mikayla,Italian,4.8
+494,Cohen and Sons,Danielmouth,Indian,3.6
+495,Lane Ltd,Prattview,Italian,4.4
+496,"Hudson, Parker and Young",Tylerstad,Italian,4.4
+497,"Oneal, Orr and Hamilton",Patriciashire,Indian,4.8
+498,"Kennedy, Martin and Gibson",New Crystal,Indian,4.7
+499,Wilson Group,Michaelville,Chinese,4.8
+500,"Pollard, Kelley and Mcintosh",East Johnny,Indian,4.1
+501,Ray Ltd,West Teresa,Chinese,3.1
+502,Gomez-Sampson,Jenningsbury,Fast Food,4.0
+503,"Freeman, Williamson and Christensen",New Karaton,Indian,3.4
+504,Shelton-Cline,Michaelland,Fast Food,3.9
+505,"Blair, Williams and Smith",Salazartown,Fast Food,3.8
+506,"Compton, Robinson and Johnson",Lisafurt,Chinese,4.0
+507,Jimenez Group,Lake Jackton,Italian,4.6
+508,Scott-Nelson,Kevinton,Indian,4.6
+509,"Smith, Romero and Silva",Lake Lisaland,Chinese,4.3
+510,Jackson Inc,Jacobsland,Indian,5.0
+511,Moore LLC,East Henry,Fast Food,3.3
+512,"Glover, Nguyen and Williams",Tammyland,Indian,3.2
+513,Davis Group,West Edgar,Indian,5.0
+514,Greene and Sons,South Jeffrey,Indian,4.4
+515,Palmer-Smith,South Nicoletown,Indian,3.8
+516,Obrien Inc,Robertfort,Italian,3.0
+517,Lang-Morris,Colonland,Fast Food,3.1
+518,"Le, Williams and Conley",West Victoriastad,Italian,4.7
+519,"Lopez, Brown and Barton",Jonesshire,Fast Food,4.9
+520,"Matthews, Flores and Baker",South Johnbury,Fast Food,3.2
+521,Walsh and Sons,Jenniferburgh,Indian,3.9
+522,"Smith, Freeman and Cooper",North Amanda,Italian,3.1
+523,Sullivan-Smith,West Shawn,Chinese,3.6
+524,Williams-Crawford,North Lauraview,Fast Food,3.6
+525,Hall-Palmer,Millerberg,Italian,4.8
+526,Ward-Petty,East Justin,Indian,5.0
+527,Richardson-Taylor,New Danielmouth,Chinese,4.7
+528,Johnson LLC,Anthonyfort,Fast Food,3.6
+529,Allen-Holt,Lake Garyland,Indian,4.9
+530,Gill-Greer,Lake Lisamouth,Indian,4.7
+531,"Taylor, Gonzalez and Foster",Salasmouth,Italian,3.3
+532,Phillips-Rice,Angelaberg,Chinese,4.5
+533,Johnston Group,Allisonmouth,Indian,4.9
+534,"Cook, Richard and Atkinson",Port Johnstad,Fast Food,4.3
+535,Hendrix Group,Lake Gwendolynchester,Fast Food,3.2
+536,Raymond-Mitchell,Michellebury,Italian,4.9
+537,Miller LLC,Port John,Fast Food,3.0
+538,"Elliott, Weber and Conrad",Christinemouth,Chinese,3.2
+539,"Banks, Rich and Krueger",Port Thomasville,Chinese,3.4
+540,Cox-Russell,West Natalie,Italian,3.2
+541,"Schneider, Walker and Livingston",Port Anthony,Chinese,4.2
+542,"Medina, Davis and Rhodes",Strongmouth,Indian,3.9
+543,"Hughes, Stewart and Walker",Lake Karenville,Indian,4.8
+544,"Curtis, Shaw and Park",South Randallmouth,Indian,3.1
+545,Garza-Coffey,East Teresastad,Chinese,5.0
+546,Stanley PLC,East Andreaborough,Fast Food,4.6
+547,Watts Group,Craigburgh,Italian,4.6
+548,Goodwin-Wright,East David,Indian,3.2
+549,Wilson-Strickland,South Andrea,Chinese,3.9
+550,"Mayer, Johnson and Harris",Roberthaven,Fast Food,3.3
+551,Hinton Inc,Lake Katherine,Chinese,4.8
+552,Barry LLC,Walkerside,Indian,4.2
+553,Hicks and Sons,West Natashaview,Italian,3.2
+554,Curtis PLC,Port John,Fast Food,3.7
+555,Harris LLC,North Tinashire,Indian,3.8
+556,Jones-Vega,North Shelleyville,Italian,4.2
+557,Garcia-Warner,East Javier,Indian,4.0
+558,Harrison-Martin,Jenniferton,Indian,3.8
+559,"Bennett, Henry and Burns",Woodstad,Indian,3.6
+560,"Lucas, Wilson and Roberson",Dicksonville,Italian,4.8
+561,Williams LLC,Vickiview,Fast Food,4.9
+562,"Cox, Miller and Sullivan",New Barbaraland,Indian,3.9
+563,"Baker, Evans and Mitchell",Arnoldside,Fast Food,3.5
+564,Peterson-Jones,Douglasport,Chinese,3.2
+565,Maxwell-Gordon,Lake Steventown,Italian,4.3
+566,"Horn, Jackson and Mccormick",South Williamshire,Fast Food,4.5
+567,Miller-Grant,Turnerport,Fast Food,3.9
+568,Moore Inc,Melissatown,Italian,4.4
+569,Rodriguez-Greer,Houseview,Italian,3.1
+570,"Booker, Wright and Bartlett",Wagnerland,Italian,3.7
+571,Sharp-Harris,Jerrymouth,Indian,4.1
+572,Navarro-Rowe,Richardshire,Chinese,4.0
+573,"Cook, Roberts and Lane",Austinview,Indian,3.2
+574,Stevens Ltd,New Sean,Indian,4.3
+575,Sanchez-Fernandez,Michaelabury,Fast Food,4.0
+576,Yates-Sullivan,Mitchelltown,Chinese,3.3
+577,Hicks and Sons,Maryside,Indian,3.6
+578,"Powell, Moore and Valencia",Lake Anthony,Indian,4.3
+579,"Gonzalez, Flores and Johnson",East Melissa,Italian,3.5
+580,Thomas-Juarez,East Benjaminfurt,Indian,4.3
+581,"Maynard, Hernandez and Lynch",Holmeshaven,Indian,3.3
+582,Phillips PLC,West Alexis,Fast Food,4.5
+583,Contreras Inc,Emilybury,Fast Food,5.0
+584,"Hayes, Leon and Shelton",West Danielbury,Italian,4.9
+585,Diaz-Johnson,Nicholasside,Chinese,4.1
+586,"Coleman, Hill and Scott",Harrishaven,Fast Food,3.9
+587,Dickerson Group,Nataliechester,Chinese,3.0
+588,Jones-Smith,West Amychester,Italian,4.6
+589,Powell and Sons,Matthewfurt,Indian,4.1
+590,"Thomas, Phillips and Johnson",North Russellburgh,Indian,4.1
+591,Cook and Sons,Dennisfort,Italian,4.3
+592,"Thompson, Williams and Montgomery",Brandyshire,Indian,4.7
+593,"Christensen, Fisher and Doyle",Floresville,Fast Food,4.3
+594,"Adams, King and Bush",East William,Chinese,4.9
+595,Alvarado and Sons,Richardborough,Chinese,4.9
+596,Williams and Sons,New Samuelport,Indian,3.6
+597,Taylor Ltd,South Jessicamouth,Chinese,4.9
+598,Henry Group,Port Jeffreymouth,Italian,4.3
+599,Young-Logan,New Haleyhaven,Indian,4.9
+600,Garcia-Martinez,Johnsonbury,Fast Food,3.8
+601,Morris-Mitchell,Jeffersontown,Chinese,4.0
+602,"Meyers, Johnson and Gilbert",Wolfeview,Indian,4.9
+603,Washington-Nash,Guerreroview,Fast Food,4.0
+604,Ponce Inc,Andreachester,Chinese,3.8
+605,Moore Group,New James,Fast Food,4.6
+606,Williams Ltd,New Damon,Italian,4.8
+607,Moreno Group,Ortizview,Chinese,4.6
+608,Dougherty-Mann,New Stanleyberg,Italian,4.4
+609,"English, English and Lamb",Emilyfort,Fast Food,4.3
+610,"Hernandez, Austin and Jones",North Brian,Indian,4.6
+611,Lutz Group,Donnachester,Chinese,3.5
+612,"Webb, Green and King",Phamberg,Italian,4.2
+613,"Solomon, Smith and Flores",North Angie,Fast Food,3.1
+614,Martin LLC,Nicholefurt,Italian,3.6
+615,Robinson-Ashley,Martinmouth,Fast Food,4.0
+616,Everett and Sons,South Staceyfort,Chinese,4.7
+617,Jones PLC,Pittmanfurt,Italian,3.7
+618,Johnson and Sons,Gregoryburgh,Italian,4.4
+619,"Richardson, Mccarty and Bruce",Karenport,Fast Food,3.1
+620,"Hess, Alexander and Lopez",East Juliamouth,Indian,4.0
+621,Bell and Sons,South Reneeburgh,Italian,4.1
+622,Espinoza-Miles,New Rickystad,Indian,3.9
+623,Alvarez Ltd,East Shawnchester,Italian,3.7
+624,"Brown, Santiago and Velasquez",Brianfurt,Fast Food,3.1
+625,Anderson LLC,West Dennisborough,Italian,3.7
+626,"Garcia, Alvarado and Sanders",Stephaniechester,Indian,3.7
+627,Krause Ltd,Martinezmouth,Fast Food,3.4
+628,Rivers Group,Virginiamouth,Fast Food,4.9
+629,Harrington-Marshall,Arianaside,Chinese,4.5
+630,"Fox, Holland and Zavala",Teresaport,Italian,3.1
+631,"Banks, Perez and Diaz",Lake Steven,Chinese,4.6
+632,Cline-Sampson,East Tanya,Chinese,3.9
+633,Zamora Inc,Lake Davidside,Chinese,3.4
+634,Spence-Erickson,Port Stephanie,Italian,4.5
+635,"Beard, Ryan and Chen",Rodgerschester,Fast Food,4.0
+636,Kirby LLC,South Steveville,Fast Food,3.7
+637,Vazquez-Long,West Kenneth,Italian,4.6
+638,Hill-Carroll,Kennethstad,Fast Food,4.5
+639,Hall-Rivas,Port Lisashire,Fast Food,4.9
+640,Coleman-Clark,Lake Jamesfurt,Chinese,4.7
+641,Howell-George,South Michael,Fast Food,3.5
+642,"Lopez, Stone and Thomas",North Kathyhaven,Chinese,3.8
+643,"Solis, Munoz and Smith",Port Deborahbury,Italian,4.2
+644,Stewart PLC,Hunterville,Chinese,4.6
+645,"Newman, Evans and Myers",Lake Jeremiah,Indian,3.8
+646,"Gregory, Richardson and Cruz",West Melissa,Indian,3.2
+647,Mcfarland-Snyder,South Christian,Chinese,3.5
+648,"Curry, Erickson and Ross",East Davidborough,Indian,3.8
+649,Banks-Madden,Laurafurt,Chinese,4.4
+650,Lewis-Ford,New Christopherberg,Fast Food,3.9
+651,Brewer and Sons,Nicoletown,Italian,4.0
+652,"Ross, Flores and Ferguson",Kingborough,Fast Food,3.3
+653,Hill-Carson,Gutierrezborough,Chinese,4.5
+654,"Stevens, Mills and Garcia",Clarencetown,Chinese,4.1
+655,Wright Group,West Kevin,Fast Food,4.0
+656,Pineda-Ramsey,Michaelberg,Italian,4.6
+657,Curtis PLC,East Jamesstad,Chinese,4.2
+658,Brooks Inc,Collinsview,Indian,3.9
+659,"Hayes, Bailey and York",Berryland,Fast Food,3.5
+660,Jones Inc,Johnland,Chinese,4.1
+661,Burton-Anderson,Kathleenville,Chinese,3.6
+662,"Smith, Keith and Harvey",New Heather,Indian,3.1
+663,Allen Group,Lake Jill,Fast Food,3.9
+664,Lee-Sandoval,East Stacyside,Indian,4.8
+665,"Morse, Smith and Christian",Port Jessica,Indian,4.4
+666,"Davis, Smith and Weaver",Port Jennifer,Italian,4.2
+667,"Deleon, Williams and Harris",Mcdowellshire,Indian,3.3
+668,Bates Group,East Jeffrey,Italian,3.4
+669,"Mullins, Hartman and Kidd",Castillohaven,Fast Food,3.5
+670,Cole-Johnson,Wattschester,Indian,4.3
+671,"French, Parks and Simpson",Stacyport,Fast Food,5.0
+672,Rodriguez-Nixon,New Chadberg,Indian,3.9
+673,Grant-Nguyen,Lake Deborahshire,Italian,3.2
+674,Rogers-Cabrera,Mitchellstad,Chinese,4.0
+675,Espinoza-Sanchez,Hardinchester,Indian,3.7
+676,Rodriguez Inc,Johnfort,Italian,4.9
+677,"Camacho, Carlson and Davis",Port Brandiport,Italian,4.1
+678,Edwards Ltd,Floresburgh,Fast Food,3.7
+679,"Hansen, Thompson and Giles",New Michelle,Italian,3.5
+680,"Mcgee, Lynch and Schultz",Peterport,Fast Food,3.4
+681,Manning Group,New Erin,Chinese,3.3
+682,Guerra Ltd,North Sean,Chinese,4.2
+683,"Clark, Williams and Vasquez",Melissaborough,Fast Food,3.5
+684,Sullivan-Thomas,Charlesland,Indian,4.9
+685,Smith Ltd,Gonzalezberg,Chinese,4.5
+686,"Nichols, Nelson and Austin",Hayesstad,Fast Food,3.7
+687,Thompson Ltd,Johnsonburgh,Fast Food,3.8
+688,Lewis Ltd,New Davidfort,Indian,4.4
+689,"Powell, Powell and Nguyen",South Susanside,Chinese,3.9
+690,Evans and Sons,Andersonborough,Italian,4.0
+691,"Miller, Sullivan and Smith",New Stephanietown,Italian,3.4
+692,Ward Ltd,Port Stephanie,Indian,3.1
+693,Leon and Sons,Davidhaven,Fast Food,4.8
+694,"Mcclure, Delacruz and Potts",Christinaton,Italian,3.3
+695,"Dennis, Ramirez and Collins",Lake Jamesside,Chinese,4.7
+696,Garcia Ltd,Nathanport,Italian,4.9
+697,"Jones, Flowers and Berry",Hardingberg,Italian,4.6
+698,"Lewis, Green and Brooks",Hannahport,Indian,4.3
+699,"Gordon, Johnson and Hayes",Billychester,Indian,4.8
+700,White Group,Mcmillanmouth,Fast Food,4.9
+701,Perez-Hartman,West Mathewmouth,Fast Food,3.5
+702,Harris LLC,East Joshuaport,Italian,3.4
+703,Lewis-Norris,Lake Jasontown,Indian,4.8
+704,Garcia LLC,Lake Adamhaven,Indian,4.3
+705,Brown-Johnson,Reevesville,Fast Food,4.7
+706,Walker-Mathews,East Wendy,Indian,3.6
+707,Warren Group,North Marieland,Fast Food,4.3
+708,Bush-Peterson,South Hannah,Fast Food,4.8
+709,Thompson Group,Nelsonbury,Indian,4.4
+710,Crawford Ltd,West Brittany,Chinese,4.8
+711,"Cuevas, Bond and Fowler",Christopherside,Fast Food,4.0
+712,Graham Ltd,North Troy,Italian,4.9
+713,Rasmussen-Carter,Lake Jasonport,Italian,4.6
+714,Jackson-Santana,Maldonadoside,Indian,4.9
+715,Bender-Watkins,New Michael,Fast Food,3.2
+716,"Valentine, Rodriguez and Rodriguez",Duffybury,Indian,3.4
+717,Jensen-Reynolds,Port Jose,Italian,3.6
+718,Stewart-Torres,Lake Samantha,Chinese,4.9
+719,Johnson Group,East Russellburgh,Fast Food,4.5
+720,"Williams, Sanchez and Williams",Adamsport,Italian,4.7
+721,Mason-Gutierrez,Perezchester,Indian,4.2
+722,"Simpson, Fleming and Kaufman",South Rogerstad,Indian,3.7
+723,Adams-Downs,South Ryanmouth,Chinese,3.4
+724,Robbins-Johnson,Lake Christopherchester,Indian,4.2
+725,"Byrd, Wilkins and Macdonald",New Amandaside,Italian,4.2
+726,"Andrews, Webster and Black",North Tyler,Chinese,3.6
+727,Jacobs LLC,West Joseph,Indian,5.0
+728,Moore and Sons,North William,Indian,3.7
+729,Mclaughlin-Dickson,South Alberttown,Chinese,3.7
+730,Green Inc,Port Rita,Italian,4.8
+731,Robertson Inc,Jaimeview,Indian,4.1
+732,Sanford Inc,Lake Richard,Italian,3.0
+733,Willis Ltd,Harveyberg,Fast Food,3.8
+734,Macdonald-Conner,New Paigeview,Italian,4.4
+735,"Bond, Brown and Sullivan",Ortegaland,Fast Food,3.2
+736,Warren Group,North Charlesstad,Fast Food,4.5
+737,Winters PLC,Sandrastad,Indian,4.4
+738,"Newman, Peterson and Rodriguez",West Lisaborough,Fast Food,4.6
+739,Thompson PLC,West Chad,Italian,5.0
+740,"Vasquez, Barrett and Williams",South Jason,Fast Food,3.8
+741,Munoz-Davis,Lake Michael,Indian,4.7
+742,Wallace Group,Garretthaven,Fast Food,3.3
+743,"Knox, Clark and Henry",Richardside,Chinese,4.5
+744,Fields-Price,South Brian,Italian,3.1
+745,Davis LLC,Port Matthew,Indian,4.8
+746,Evans PLC,Lake Garrett,Chinese,3.9
+747,Warren LLC,Port Tylerbury,Indian,4.5
+748,Hanna-Moody,Kellyshire,Italian,4.3
+749,Howell PLC,New Rhondaview,Chinese,3.6
+750,"Molina, Wilkins and Cabrera",New Tiffany,Chinese,4.4
+751,Martin Ltd,Lawsonchester,Indian,4.2
+752,"Johnston, Roberson and Moore",Douglasport,Indian,3.5
+753,Romero Ltd,Sharonmouth,Chinese,3.5
+754,Reynolds-Flores,Sandrabury,Fast Food,4.0
+755,Burke and Sons,West Erica,Indian,3.9
+756,"Lopez, Hanson and Alexander",North Daniel,Chinese,3.1
+757,"Mullen, Hernandez and Moyer",Leeland,Fast Food,5.0
+758,"Wright, Glenn and Byrd",Michaelshire,Chinese,4.1
+759,"Mills, Gentry and Krueger",Townsendburgh,Italian,4.1
+760,"Rodriguez, Hill and Sanchez",Josephland,Indian,3.4
+761,Knight LLC,Port Jack,Fast Food,3.1
+762,"Stevens, Mcbride and Murillo",New Christineshire,Italian,3.1
+763,"Miller, Wise and Powell",Normanland,Italian,4.6
+764,Torres-Gallegos,Warrenborough,Indian,3.5
+765,Mays-Brown,Stephaniebury,Chinese,3.7
+766,Dickerson Ltd,New Kimberlyberg,Fast Food,3.1
+767,Alexander-Moore,New Valerie,Fast Food,4.0
+768,"White, Franklin and Eaton",Robinsonmouth,Indian,3.2
+769,"Vega, Flores and Oliver",North Karenmouth,Indian,4.6
+770,Gonzalez-Obrien,Boydton,Indian,5.0
+771,Ford-King,Millerbury,Fast Food,5.0
+772,"Richardson, Burns and Ellis",West Leahland,Chinese,4.4
+773,Villegas Ltd,Obrientown,Fast Food,4.2
+774,Wong Ltd,South Lauramouth,Chinese,3.9
+775,"Montgomery, Miller and Holland",West Russellstad,Indian,3.3
+776,"Drake, Adams and Schmidt",West Brenda,Indian,4.6
+777,Arias Ltd,East David,Italian,3.7
+778,Knox Ltd,New Nicoleshire,Fast Food,3.6
+779,"Martin, Sanchez and Cummings",West Tracy,Italian,3.2
+780,Andersen Ltd,Heatherside,Fast Food,4.0
+781,Kennedy-Stevens,South Michaelmouth,Fast Food,4.7
+782,Rodriguez-Schwartz,Lindaton,Chinese,3.8
+783,Mcdonald and Sons,Higginshaven,Chinese,4.2
+784,"Thomas, Gonzalez and Buchanan",Terryville,Italian,3.6
+785,"Webb, Sanchez and Bradley",Antoniobury,Chinese,4.9
+786,Smith Group,Jonesville,Indian,3.4
+787,"Reilly, Salinas and Hernandez",Port Ericmouth,Italian,4.5
+788,Petersen-Baker,Port Elizabeth,Indian,3.6
+789,Garcia PLC,East Kevinland,Italian,3.2
+790,Moore-Archer,North Kevin,Indian,4.4
+791,Sanchez-Rivera,Benjaminbury,Italian,4.3
+792,Mercer Group,South Frankmouth,Indian,4.2
+793,Lopez LLC,North Meganmouth,Fast Food,4.8
+794,"Fletcher, Jenkins and Smith",North Amandahaven,Fast Food,4.7
+795,Harris-Norris,Williamchester,Fast Food,4.0
+796,Williams-Mccullough,East Joseph,Italian,4.2
+797,"Morrison, Wilkins and Mullins",Port Tammy,Chinese,3.0
+798,Lloyd-Brown,Lake Stephenmouth,Fast Food,3.3
+799,Tran Group,Amandaland,Chinese,4.8
+800,Gilmore and Sons,Greenebury,Fast Food,3.7
+801,Wilson-Schroeder,Justinside,Chinese,4.9
+802,"Stout, Thomas and Robinson",West Catherine,Italian,4.0
+803,"Roberts, Benson and Rodriguez",South Jesse,Chinese,4.2
+804,Hunter Ltd,Lake Robert,Fast Food,3.8
+805,Thompson-Fischer,Combschester,Indian,4.1
+806,Harris Inc,Stephanieport,Fast Food,4.8
+807,"Pineda, Vargas and Smith",West Christinaberg,Chinese,4.9
+808,Fernandez-Smith,East Olivia,Chinese,4.1
+809,"Reed, Wright and Harris",Rodriguezfurt,Chinese,4.0
+810,Russell-Cole,East Austinland,Chinese,3.3
+811,Ford Group,New Staceybury,Indian,3.6
+812,Moore-Hill,West Mary,Fast Food,4.8
+813,Bishop-Patterson,Kington,Fast Food,3.8
+814,Thornton Ltd,Lauraberg,Italian,3.4
+815,Dickerson Ltd,Walkershire,Indian,3.3
+816,Taylor PLC,South Ellenmouth,Italian,3.5
+817,Cline LLC,West Catherinestad,Indian,4.7
+818,Nelson-Bridges,South Wendy,Fast Food,4.5
+819,Barry-Huang,Lake Mark,Indian,3.1
+820,Stone-Walter,Lake Michael,Chinese,4.2
+821,Berry-Jackson,Stephanieshire,Fast Food,4.4
+822,"Simpson, Davis and Gentry",Lake Nicholasstad,Fast Food,4.9
+823,Bentley-Hill,Bryanmouth,Fast Food,3.9
+824,Floyd-Johnson,Jeffreymouth,Italian,3.8
+825,Gross-Suarez,Lake Brian,Chinese,3.0
+826,"Rogers, Pearson and Dixon",Leahshire,Fast Food,3.0
+827,"Barrett, Shaw and Richardson",Vangmouth,Indian,4.4
+828,Mills Inc,Russellfort,Chinese,4.8
+829,Poole-Robinson,West Carolynchester,Italian,3.1
+830,"Walsh, Henderson and Hunter",Port Frank,Chinese,3.2
+831,Riley-Graham,Jenniferland,Fast Food,4.1
+832,"Davis, Gutierrez and Butler",Hatfieldfurt,Italian,4.9
+833,"Garza, Flynn and Lawrence",South Erinchester,Italian,4.1
+834,Thomas-Beasley,Lake Melissaport,Indian,3.6
+835,Soto-Hayes,Tylermouth,Fast Food,3.3
+836,Barnes LLC,Millerstad,Indian,3.9
+837,"Shepherd, Medina and Schmitt",South Daniellefort,Indian,4.9
+838,Perez LLC,Brandonville,Fast Food,3.4
+839,Williams-Padilla,Port Loriton,Italian,3.9
+840,"Morgan, Stuart and Trevino",East Rachelbury,Indian,3.3
+841,Keller Ltd,Dickersonmouth,Indian,3.1
+842,Compton-Castro,Lake Jennifer,Italian,4.6
+843,Turner-Chapman,South Robertstad,Indian,3.1
+844,Hurst LLC,Michaelfurt,Chinese,3.4
+845,Jensen Group,Port Natalie,Indian,3.8
+846,Griffin LLC,Shortport,Fast Food,3.8
+847,Chung-Roberts,West Lisaview,Fast Food,3.5
+848,Macdonald Group,New Kathleen,Fast Food,3.9
+849,Weaver-Underwood,Brewerton,Fast Food,3.3
+850,"Padilla, Adams and Williamson",Chandlerview,Indian,3.8
+851,Nichols-Carter,Schmidtshire,Italian,4.1
+852,Benson-Wilson,Kimberlyhaven,Fast Food,3.2
+853,Walsh Ltd,Lake Amandachester,Indian,3.0
+854,"Howard, Dixon and Bush",Williamsstad,Chinese,4.7
+855,Bradshaw-Garcia,Sandersburgh,Chinese,4.7
+856,King PLC,Bradleyfurt,Italian,4.8
+857,"Allen, Burke and Murphy",Lindaton,Indian,3.1
+858,Smith LLC,Melissafurt,Indian,4.2
+859,Brown Group,Nataliefort,Chinese,3.1
+860,"Smith, Fernandez and Lee",Lake Miketon,Fast Food,4.1
+861,"Long, Salinas and Olson",Pierceburgh,Indian,4.9
+862,Moore-Reed,Port Wendy,Fast Food,4.5
+863,"Hampton, Hughes and Fields",New Brendanmouth,Fast Food,4.8
+864,"Brown, Robinson and Davis",New Andrewfort,Italian,4.5
+865,Richard-Pham,Dustinfort,Indian,4.1
+866,Wallace-Cooper,Burchton,Fast Food,4.8
+867,"Moore, Baker and Schultz",Kelleyview,Chinese,3.7
+868,Brown LLC,East Huntermouth,Fast Food,4.4
+869,Taylor-Murphy,Gomezburgh,Italian,3.8
+870,"Jones, Thompson and Hart",Lake Robinbury,Fast Food,3.1
+871,Lucas-Bell,West Deborah,Italian,3.2
+872,Brooks-Leonard,Lake Angela,Fast Food,3.4
+873,Lewis-Spencer,Monicaside,Indian,3.1
+874,Cruz-Mitchell,Matthewstad,Indian,4.2
+875,"Chang, Rogers and Blanchard",East Marcus,Indian,3.3
+876,Mathis and Sons,Wintersberg,Chinese,4.8
+877,"Edwards, Smith and Wright",East Elizabethborough,Italian,4.6
+878,Navarro-Skinner,Douglasland,Indian,4.1
+879,Tucker-Simmons,New Katherineside,Italian,4.7
+880,Garrison-Carter,Hicksfurt,Italian,4.0
+881,Page-Adams,North Brittany,Fast Food,4.3
+882,Patterson-James,East Michael,Italian,3.9
+883,"Hale, Lopez and Norman",East Amyborough,Indian,3.9
+884,"Carrillo, Patterson and Williams",Ianland,Italian,3.8
+885,Vega-Gomez,Tonifurt,Chinese,4.7
+886,"Sheppard, Davidson and Hobbs",North Charlesstad,Indian,4.1
+887,Rodriguez PLC,Meaganchester,Italian,4.2
+888,Foster LLC,East Stephanie,Indian,4.5
+889,Martin PLC,Lake Jessica,Fast Food,4.7
+890,Thompson Group,Port Briana,Chinese,3.2
+891,Brown-Elliott,South Brianview,Fast Food,3.8
+892,Thompson-Cooper,Lake Jermaine,Fast Food,4.1
+893,Espinoza-Lopez,Paulville,Chinese,4.5
+894,"Reid, Richardson and Hendrix",East Stephaniehaven,Chinese,3.1
+895,Phillips Inc,Velasquezstad,Italian,4.0
+896,"Dunn, Krause and Chapman",West Patrick,Fast Food,3.1
+897,Ballard-Hughes,Murraytown,Indian,4.3
+898,"Lawrence, Mendoza and Taylor",Chenville,Chinese,4.8
+899,Smith-Robinson,Christophermouth,Italian,4.7
+900,Mann Group,Adamtown,Fast Food,3.4
+901,"Young, Johnson and Lyons",Danielleberg,Fast Food,3.5
+902,Owens-West,Dicksonland,Fast Food,3.3
+903,"Marshall, Stephens and Warren",South Davidstad,Italian,3.3
+904,"Randall, Santos and Berry",Christianborough,Indian,4.5
+905,Stevenson LLC,New Valerie,Italian,3.1
+906,Andrews-Warren,Mayside,Fast Food,4.3
+907,"Crawford, Garcia and Mcgrath",East Robertmouth,Fast Food,4.0
+908,"Gibbs, Graham and Ho",Hunterberg,Indian,4.8
+909,Sawyer and Sons,Port Eddie,Chinese,3.8
+910,Patterson Group,South Margaretchester,Italian,4.6
+911,Rosales Group,Codyville,Chinese,3.3
+912,Wilson Inc,Port Georgetown,Chinese,3.2
+913,"Daniels, Williams and West",Jamesview,Fast Food,4.0
+914,Miller and Sons,East Janeview,Fast Food,3.3
+915,"Brown, Bennett and Ryan",Gregchester,Italian,4.4
+916,Palmer-Thomas,Mooremouth,Italian,3.3
+917,"Brown, Robinson and Williams",South Michellestad,Italian,4.8
+918,Whitaker Inc,East Christopherfort,Chinese,4.7
+919,Day Group,Suttonstad,Chinese,4.4
+920,"Schwartz, Simmons and Smith",Port Ericfurt,Chinese,3.6
+921,Morgan Group,North James,Chinese,3.3
+922,"Juarez, Leach and Ortega",Georgeton,Chinese,4.5
+923,"Parsons, Melendez and Graves",New Michelle,Indian,3.4
+924,Lewis-Ortega,Vanessaburgh,Italian,3.3
+925,Edwards Inc,New Darryl,Chinese,4.1
+926,Brock LLC,Ramirezfort,Fast Food,3.1
+927,"Griffin, Graves and Moore",Kelseyland,Italian,3.9
+928,Stephens Group,Lake Paul,Italian,3.9
+929,Whitehead-Baker,North Adam,Italian,3.6
+930,Kennedy PLC,North Angelaton,Indian,4.2
+931,"Daniel, Johnson and Berger",Catherineberg,Italian,4.5
+932,Parrish Inc,Holmesberg,Indian,4.3
+933,Hamilton Ltd,Smithhaven,Indian,3.9
+934,"Jones, Ellis and Peters",Bendertown,Fast Food,3.2
+935,Smith and Sons,Port Erica,Fast Food,4.6
+936,"Fitzpatrick, Brown and Parrish",Jennifershire,Indian,3.5
+937,"Merritt, Oconnor and Hill",Port Leonard,Chinese,3.8
+938,"Patterson, Poole and Collins",Bairdton,Chinese,3.1
+939,Walker PLC,Staceyfort,Chinese,4.1
+940,"Pope, Park and Diaz",Francoview,Fast Food,3.5
+941,"Lawson, Hunter and Brown",West Leahburgh,Fast Food,3.2
+942,Hines-Dunlap,Dominiquestad,Italian,4.3
+943,"Stone, Roberts and Nelson",Cherylborough,Chinese,3.1
+944,Cannon Inc,North Kelly,Indian,3.5
+945,Rodriguez Inc,Gwendolynchester,Italian,3.7
+946,Ramos-Turner,New Louistown,Chinese,4.0
+947,"Smith, Harris and Brown",Haileychester,Italian,4.3
+948,Kim-Thompson,East Lisa,Italian,4.8
+949,"Hunt, Holmes and Hall",Douglaston,Fast Food,4.1
+950,Bruce Inc,Smithton,Chinese,3.3
+951,Wu-Herrera,West Stephaniestad,Italian,3.6
+952,Cooper Ltd,Williamshire,Indian,4.1
+953,Glass LLC,Jamesmouth,Fast Food,3.5
+954,"White, Parrish and Adkins",Bradytown,Chinese,3.9
+955,"Chung, Thompson and West",Marialand,Chinese,4.9
+956,"Baxter, Moore and Perez",Phelpsfort,Fast Food,4.1
+957,Bradley Ltd,Rachaelborough,Indian,4.3
+958,Hays-Hill,Jamesmouth,Indian,3.3
+959,Davis LLC,Lake Kimberlyburgh,Indian,3.4
+960,Jackson-Forbes,Nguyenburgh,Fast Food,3.2
+961,Greene Ltd,Lake Elizabeth,Indian,4.4
+962,Mccullough-Kramer,Rossburgh,Indian,4.0
+963,Burton-White,Markberg,Fast Food,4.8
+964,Garner-Patel,Lake Patrick,Chinese,3.9
+965,"Williams, Day and Parrish",Donnaburgh,Fast Food,4.7
+966,Perez PLC,Perrystad,Chinese,4.0
+967,Kemp-Harris,Cynthiaberg,Fast Food,3.9
+968,Gates-Williams,North Dianeburgh,Italian,4.7
+969,Hale PLC,East Marktown,Fast Food,4.1
+970,"Williams, Jensen and Smith",Scottberg,Chinese,4.2
+971,Allen Ltd,Port Carmen,Fast Food,4.0
+972,Meadows Ltd,Robertsonview,Italian,4.2
+973,Washington PLC,East Matthew,Italian,3.1
+974,Carr-Johnson,East Timothymouth,Chinese,4.6
+975,Bowman-Smith,East Debbieton,Chinese,3.3
+976,Gordon Ltd,East Jessicaberg,Chinese,3.1
+977,Brown PLC,Larrybury,Fast Food,3.9
+978,"Taylor, Steele and Huffman",Calderonborough,Italian,4.9
+979,Price PLC,North Jeffrey,Indian,3.5
+980,Anderson LLC,Wheelerborough,Italian,3.5
+981,Thomas LLC,Tonyaland,Indian,3.2
+982,Berger Group,Martinton,Chinese,5.0
+983,Malone PLC,Kevinhaven,Chinese,4.1
+984,"Wilkinson, Madden and Swanson",Port Donna,Chinese,4.2
+985,Forbes-Reese,Richardsport,Indian,3.6
+986,"Porter, Mcneil and Walters",Stricklandchester,Fast Food,4.9
+987,Gibson-Herman,South Karen,Fast Food,3.4
+988,"Smith, Brown and Garcia",Kevintown,Chinese,3.4
+989,Navarro Inc,Beverlyland,Fast Food,3.4
+990,Coleman-Trevino,New Lindsey,Fast Food,3.9
+991,Underwood-Madden,Ashleybury,Italian,3.1
+992,"Underwood, Ponce and Singleton",Lake Tammy,Indian,5.0
+993,"Lee, Preston and Smith",West Michelle,Fast Food,3.8
+994,"Goodman, Allen and Thomas",Baxterberg,Fast Food,4.6
+995,"Rowe, Carr and Chan",New David,Chinese,4.6
+996,Dickerson and Sons,New Brandiport,Fast Food,3.1
+997,"Miller, Hatfield and Bailey",Danielchester,Indian,4.9
+998,"Thompson, Jones and Swanson",East Cynthiastad,Indian,3.6
+999,Martinez Group,New Dawn,Fast Food,3.0
+1000,"Ballard, Ellis and White",East Karenmouth,Italian,4.9
+1001,Hoffman and Sons,Hamiltonchester,Fast Food,4.7
+1002,"Clark, Evans and Lynch",New Christie,Indian,3.1
+1003,Cook and Sons,Richardbury,Chinese,4.2
+1004,"Matthews, White and Mccormick",New Matthew,Indian,4.3
+1005,Brewer-Pittman,Harrisshire,Indian,4.4
+1006,"Davis, Smith and Chandler",Smithfurt,Chinese,3.4
+1007,Evans PLC,Arellanoton,Chinese,3.8
+1008,Chandler-Perez,Laurenshire,Indian,3.2
+1009,Warner LLC,Donaldville,Italian,3.8
+1010,Walsh Group,Howardton,Chinese,3.7
+1011,Moon-Taylor,East Jennifer,Fast Food,4.5
+1012,Garrett-Myers,New Melissaborough,Indian,4.6
+1013,Soto-Tran,Thomasville,Chinese,4.9
+1014,Dudley-Reeves,Brownmouth,Indian,4.6
+1015,"Kelley, Hoover and Reese",Stephaniestad,Italian,3.4
+1016,"Waller, Jenkins and Morris",West Michaelmouth,Chinese,4.7
+1017,"Welch, Schmidt and Sullivan",Miguelbury,Indian,4.0
+1018,"Hensley, Tran and Merritt",Port Miranda,Indian,4.1
+1019,"Stewart, Martinez and Hill",Rodriguezbury,Italian,4.6
+1020,Key-Reed,Martinbury,Chinese,3.3
+1021,Gilbert-Smith,Lake Steventon,Chinese,3.8
+1022,Hernandez-Richardson,North Brandon,Italian,3.5
+1023,Stone Group,Kennethview,Fast Food,4.9
+1024,Osborn LLC,Juliebury,Italian,3.2
+1025,"Graham, Abbott and Morgan",Port Benjamin,Fast Food,4.7
+1026,Flores PLC,New Veronicaberg,Chinese,4.1
+1027,Miller LLC,Angelamouth,Italian,3.1
+1028,"Wiggins, Lopez and Jacobs",North Richard,Italian,4.5
+1029,White Ltd,New Paul,Fast Food,3.6
+1030,"Arnold, Allen and Fields",East Michaelmouth,Chinese,4.5
+1031,Campbell and Sons,East Randy,Fast Food,3.4
+1032,"Hoover, Lopez and Aguirre",Lake Austinmouth,Chinese,4.5
+1033,"Knight, Russell and Mejia",New Angela,Fast Food,3.9
+1034,Marshall-Martinez,Katherinehaven,Chinese,3.8
+1035,"Koch, Moreno and Pierce",Erinfurt,Indian,5.0
+1036,Ramos-Mann,Williamsshire,Chinese,3.0
+1037,Henry-Cooper,Cassandramouth,Chinese,3.0
+1038,Pope-Roman,North Kelly,Indian,4.7
+1039,Griffin LLC,Lake Robertchester,Indian,3.4
+1040,Barker and Sons,Bryanchester,Chinese,4.7
+1041,Moore Inc,Mercerview,Italian,4.2
+1042,Gregory-Nicholson,Olsonstad,Fast Food,4.6
+1043,"Mccarty, Gilmore and Cook",Lake Jessicafurt,Fast Food,4.8
+1044,Lowery Ltd,Rogerchester,Italian,3.9
+1045,Cox Ltd,Theodorefurt,Indian,3.4
+1046,Cantu-Wise,Johnchester,Indian,5.0
+1047,Myers-Cooper,East Brittanyton,Indian,3.3
+1048,Jones-Williamson,Stanleystad,Italian,3.3
+1049,"Jones, Berg and Lane",Weavermouth,Chinese,4.7
+1050,Ramirez LLC,New Paulside,Chinese,3.8
+1051,Mullins-Richardson,Taylorton,Indian,3.8
+1052,Waters Group,Gonzalezmouth,Chinese,4.5
+1053,Edwards Group,Noblebury,Fast Food,3.1
+1054,Hill-Robinson,Schmidtport,Fast Food,3.3
+1055,Horton-Ballard,South Brian,Indian,4.8
+1056,Watson Ltd,Michaelland,Fast Food,5.0
+1057,Anderson-Cruz,South Angela,Indian,4.8
+1058,White Group,Tonyaville,Italian,4.0
+1059,Clark-Lopez,South Leslie,Italian,3.8
+1060,"Wiley, Campbell and Garrison",Stephaniestad,Fast Food,4.9
+1061,Klein Ltd,Castroshire,Indian,4.2
+1062,Dunlap and Sons,Lake Brianton,Italian,3.7
+1063,Lee Inc,Port Mark,Fast Food,3.9
+1064,Harmon Ltd,Martinmouth,Italian,4.4
+1065,Bradley LLC,North Alejandro,Chinese,5.0
+1066,"Lee, Smith and Dickerson",New Steve,Indian,4.6
+1067,"Andersen, Brewer and Mullen",Morrisborough,Chinese,3.4
+1068,"Robinson, Fuller and Sampson",Lake Danielbury,Chinese,3.2
+1069,"Miranda, Thompson and Watts",Heatherstad,Italian,4.7
+1070,Clark-Johnson,North Ryan,Indian,4.0
+1071,Smith Ltd,North Krystal,Chinese,4.7
+1072,George PLC,East Carolyn,Fast Food,4.0
+1073,"Sellers, Powers and Vaughn",Matthewview,Chinese,4.5
+1074,"Vega, Gomez and Dunn",West Thomas,Italian,3.5
+1075,"Shaw, Owens and Whitney",South Chasemouth,Fast Food,5.0
+1076,"Smith, Frazier and Fisher",Chanside,Indian,4.5
+1077,Olson-Wells,Brianaton,Italian,3.8
+1078,"Oneal, Adams and Parsons",Ryanburgh,Chinese,4.6
+1079,Burns-Bass,Mcbridemouth,Indian,3.7
+1080,"Bryant, Mitchell and Miller",Robertborough,Fast Food,4.4
+1081,Watts Ltd,Daniellehaven,Italian,3.2
+1082,Vasquez-Davis,West Andrew,Indian,4.7
+1083,Clayton-Phillips,Gregoryhaven,Fast Food,4.5
+1084,"Lee, Garrett and Mitchell",Wrightshire,Fast Food,3.5
+1085,"Lawrence, Hunter and Mills",New Daniel,Fast Food,3.2
+1086,Tate-Simpson,West Sharonville,Indian,4.8
+1087,Johnson Inc,Aguilarfort,Chinese,3.9
+1088,"Haley, Kelley and Garcia",Joelview,Fast Food,3.3
+1089,"Allen, Lee and Brown",New Paul,Indian,3.2
+1090,"Riley, Fernandez and Torres",New Mitchell,Italian,4.7
+1091,"Smith, Cruz and Contreras",West Randall,Italian,4.1
+1092,Becker-Ochoa,New Julieton,Chinese,3.3
+1093,"Ward, Patterson and Curtis",Downsmouth,Chinese,3.3
+1094,"Sanders, Taylor and Franklin",Nicolemouth,Italian,4.3
+1095,Tran Inc,Bryantchester,Indian,3.7
+1096,Boyer and Sons,New Nancy,Chinese,4.0
+1097,Smith Inc,Jasonville,Indian,4.4
+1098,Bates-Montgomery,Curtisshire,Fast Food,3.3
+1099,"Marsh, Mills and Smith",Jamesland,Chinese,3.2
+1100,Nguyen PLC,North Nancyberg,Italian,3.3
+1101,Ward PLC,Christopherport,Chinese,3.7
+1102,Conley Ltd,South Jon,Italian,4.0
+1103,Contreras-Dillon,South Jeremyview,Chinese,4.8
+1104,"Harris, Johnson and Roberson",Port Andreshire,Italian,3.3
+1105,Mullins-Montes,Zacharystad,Chinese,3.1
+1106,Friedman-Pacheco,East Vanessashire,Italian,4.5
+1107,Murphy Group,Gallowayton,Chinese,4.6
+1108,White Ltd,New Michaelburgh,Chinese,4.5
+1109,Munoz Ltd,Port Steven,Indian,4.0
+1110,Miller Ltd,Sheilastad,Italian,4.7
+1111,"Townsend, Duarte and Miller",Walterstown,Indian,4.4
+1112,"Swanson, Johnson and Orozco",Wrightburgh,Chinese,3.8
+1113,"Williams, Conley and Bowman",Smithton,Indian,4.1
+1114,Lopez-Hampton,Jasonborough,Indian,4.9
+1115,"Montgomery, Wallace and Steele",South Chrismouth,Fast Food,4.3
+1116,"Davis, Goodman and Morrow",Lake Rickyshire,Indian,3.4
+1117,West Group,Donaldbury,Indian,4.4
+1118,Rodriguez LLC,Lake Cory,Chinese,5.0
+1119,"Smith, Parsons and Gallagher",Port Victorborough,Chinese,3.9
+1120,"Stanton, Cordova and Jones",Paulchester,Fast Food,3.4
+1121,Serrano Group,North Thomas,Indian,3.4
+1122,Turner Ltd,East Laura,Indian,4.1
+1123,"Martin, Williamson and Bishop",Lake Markburgh,Italian,3.2
+1124,Harrison and Sons,New Zacharyshire,Indian,4.1
+1125,Murray LLC,West Laura,Chinese,4.2
+1126,"Hill, Hoffman and Pierce",New Pamela,Fast Food,4.1
+1127,"Hill, Perez and Frye",North Joshuaside,Italian,4.0
+1128,Barton and Sons,Langville,Indian,4.1
+1129,"Spencer, Herring and Nielsen",Taylorchester,Italian,3.7
+1130,Lee LLC,South Jason,Italian,3.9
+1131,Morales and Sons,Bakerland,Italian,3.3
+1132,Sanchez PLC,South Todd,Italian,4.8
+1133,Johnson and Sons,Hartmanton,Fast Food,3.1
+1134,"Harrison, Rogers and White",New Philip,Fast Food,3.1
+1135,Fleming Ltd,Finleystad,Chinese,4.0
+1136,Stein Ltd,North Loriside,Indian,4.2
+1137,Ryan Inc,Watsonton,Italian,4.7
+1138,Butler and Sons,Williamsonmouth,Italian,3.1
+1139,English Ltd,North Stephanieville,Fast Food,4.7
+1140,Velazquez-Rogers,New Tiffany,Indian,4.4
+1141,"Colon, Alexander and Lewis",Port Jillmouth,Fast Food,4.0
+1142,Smith LLC,West Katherinemouth,Chinese,3.1
+1143,Robinson-Jensen,Robertstown,Italian,4.4
+1144,Chambers Ltd,Bernardville,Chinese,3.2
+1145,Rodriguez-Miller,Barbaramouth,Chinese,4.4
+1146,Norton and Sons,North Nancy,Italian,3.1
+1147,"Gilbert, Chen and Hughes",Jamesmouth,Italian,4.0
+1148,"Jones, Cline and Jackson",Larryburgh,Fast Food,4.0
+1149,Glass Ltd,North Samanthaville,Fast Food,4.3
+1150,"Johnson, Owens and Smith",Port Scottchester,Italian,3.5
+1151,Weaver Group,Welchside,Italian,4.3
+1152,Harrington-Howell,Port Matthew,Chinese,3.5
+1153,Watson and Sons,Garcialand,Italian,3.7
+1154,"Sandoval, Lee and Burton",Rodriguezmouth,Italian,4.7
+1155,Arnold and Sons,Gilmorestad,Chinese,3.5
+1156,Brown Inc,Gregorychester,Fast Food,3.8
+1157,"Schultz, Davis and Moon",Justinbury,Fast Food,3.4
+1158,Taylor Inc,Raymondberg,Italian,4.5
+1159,"Cameron, Olson and Williams",Cynthiaport,Italian,3.6
+1160,Juarez PLC,South Georgeshire,Indian,4.9
+1161,"Miller, Shelton and Bauer",Lake Christopherview,Chinese,3.9
+1162,Bean LLC,South Reginaview,Indian,3.8
+1163,Bradley Ltd,East Alexis,Italian,4.9
+1164,"Bowen, Griffith and Costa",North Davidhaven,Indian,4.6
+1165,King Group,South Emilyville,Indian,3.8
+1166,Collins-Barnes,Sharonside,Chinese,4.5
+1167,Cuevas-Murphy,New Kevin,Chinese,4.5
+1168,Lopez Group,New Sherry,Chinese,4.9
+1169,Cook Group,Kelseychester,Chinese,4.0
+1170,Alexander-Brown,Parkerton,Indian,4.3
+1171,Garza PLC,West Andrewburgh,Indian,3.7
+1172,Fitzgerald-Floyd,Benjaminborough,Chinese,4.2
+1173,Wilkins PLC,West Patriciachester,Indian,4.3
+1174,"Kelly, Zimmerman and Gonzalez",West Christineland,Italian,3.6
+1175,Lee Group,Lake Coryville,Chinese,4.5
+1176,"Lopez, Dominguez and Mckenzie",Shepherdfurt,Italian,3.9
+1177,Kane-Pratt,South Josephhaven,Fast Food,3.6
+1178,Li Group,Garciaview,Italian,3.8
+1179,Vaughn LLC,North Nathan,Indian,3.5
+1180,Williams Inc,Port Andrew,Italian,4.5
+1181,"Villanueva, Forbes and Gonzalez",North Alexanderchester,Indian,3.3
+1182,"Rodriguez, Ferrell and Jones",Grayberg,Chinese,4.1
+1183,Peterson-Morales,Harperfort,Indian,3.9
+1184,"Novak, Martin and Gibson",East Dustinshire,Fast Food,3.8
+1185,Garcia-Pierce,Rodriguezborough,Fast Food,4.3
+1186,Smith Ltd,Christianmouth,Indian,4.3
+1187,Smith PLC,West Alexanderland,Chinese,3.9
+1188,Jones Group,Lake Michellebury,Indian,3.1
+1189,West Inc,Lake Wayne,Fast Food,3.8
+1190,Mora-Osborne,Jessestad,Fast Food,3.2
+1191,"Wilson, Patterson and Horton",Smithfort,Chinese,4.7
+1192,Watson-Woods,Josephfort,Fast Food,4.3
+1193,Lyons-Douglas,New Lisatown,Chinese,4.9
+1194,Scott and Sons,South Justinport,Indian,3.9
+1195,"Lucas, Martin and Terry",New Crystal,Chinese,4.9
+1196,Young and Sons,Jennatown,Fast Food,3.1
+1197,Pittman Inc,Michaelport,Fast Food,4.3
+1198,Roth LLC,Pamelachester,Fast Food,3.7
+1199,Crane-Valdez,Port Sherry,Fast Food,3.8
+1200,Smith-Keller,Wendybury,Chinese,4.7
+1201,"Jones, Wilson and Mclaughlin",Lake Valerie,Fast Food,3.8
+1202,Smith-Villanueva,South Sean,Fast Food,4.6
+1203,Harris-Kennedy,South Scottmouth,Fast Food,4.2
+1204,"Campbell, Bush and Brady",Port Theresaview,Indian,4.4
+1205,Guzman-Buckley,North Ashleyland,Indian,4.5
+1206,Lopez LLC,Laneburgh,Chinese,4.7
+1207,Mayer-Fisher,Kerriview,Chinese,4.9
+1208,Garcia-Haney,East Jessicashire,Chinese,4.4
+1209,Martin PLC,Baileyfort,Italian,4.9
+1210,"Taylor, Miller and Martinez",North Teresatown,Chinese,3.4
+1211,"Thomas, Moss and Branch",East Stevenborough,Indian,3.2
+1212,"Gomez, Rodriguez and Bradley",Lake Nicholasbury,Chinese,3.6
+1213,Ferguson-Kim,Ramirezburgh,Chinese,4.2
+1214,Ramos LLC,Mendozabury,Fast Food,4.8
+1215,"Morrison, Key and Edwards",East Diane,Fast Food,4.9
+1216,"Brown, Sims and Walker",East Michael,Indian,3.7
+1217,Lee Inc,Greenchester,Chinese,4.2
+1218,"Stone, Martin and Erickson",Zunigahaven,Indian,4.9
+1219,"Bond, Maldonado and Cox",Josephmouth,Italian,4.4
+1220,Miller Ltd,Port Christinaview,Chinese,3.6
+1221,Lopez PLC,Carrilloville,Italian,4.8
+1222,Lewis LLC,Port Anita,Italian,3.3
+1223,"Miles, Gonzalez and Kemp",North Daniel,Chinese,4.3
+1224,Hall Ltd,New Anthony,Chinese,3.3
+1225,Sanchez Group,Jonesside,Chinese,3.0
+1226,Rodriguez and Sons,East Emilybury,Chinese,3.7
+1227,"Perry, Clark and Johnson",Lisaborough,Indian,3.6
+1228,"Fitzpatrick, Morales and Reeves",North Hannahfort,Italian,4.3
+1229,Hall and Sons,South Oliviachester,Chinese,3.5
+1230,Sandoval-Rodgers,Duncanview,Italian,4.5
+1231,Taylor and Sons,North Brianafort,Fast Food,4.1
+1232,Hayes Inc,South Brandonstad,Indian,4.6
+1233,Becker-Russell,Moorefurt,Italian,4.4
+1234,"Figueroa, Casey and Richmond",Dorothymouth,Indian,4.4
+1235,Rodriguez and Sons,East Bryan,Fast Food,4.0
+1236,"Vargas, West and Oliver",North Robin,Indian,4.5
+1237,Smith Group,Lake Kylie,Indian,3.3
+1238,Thomas LLC,West Daniel,Fast Food,4.1
+1239,"Gallagher, Mcknight and Ross",Jessicaton,Fast Food,3.7
+1240,Arroyo Group,Port Peterfort,Italian,4.7
+1241,Campbell Inc,Haroldchester,Chinese,4.2
+1242,Tucker-Green,Lake Ericashire,Italian,4.9
+1243,"Wagner, Holland and Roberts",West Andrewburgh,Italian,4.6
+1244,Henry-Campbell,New Kathyton,Indian,4.1
+1245,Flores-Copeland,Lake Karlville,Italian,4.1
+1246,"Welch, Harding and Conner",Port Chelsea,Italian,4.4
+1247,Fernandez Inc,East Kirk,Indian,4.0
+1248,Mcintyre-Robertson,New Justin,Indian,4.5
+1249,"Campbell, Morris and Torres",South Tasha,Indian,3.3
+1250,Morris Ltd,Garciabury,Indian,4.2
+1251,Petersen PLC,Jenniferburgh,Indian,4.9
+1252,Ruiz-Miller,Sanchezville,Italian,3.5
+1253,Durham Group,Port Franciscomouth,Indian,4.9
+1254,Kim PLC,South Katherinechester,Indian,4.8
+1255,Greene-Harris,Richardsside,Fast Food,3.3
+1256,"Campbell, Martin and Russell",Pricefurt,Indian,3.3
+1257,Sullivan-Soto,Adamshaven,Chinese,4.8
+1258,"Deleon, Ballard and Savage",Port Matthew,Indian,4.5
+1259,Vargas-Miller,Jamesborough,Indian,4.4
+1260,Roberson-Morales,Bowmanview,Italian,3.6
+1261,Roberts-Price,Turnerside,Indian,3.7
+1262,Williams-Williams,East Oliviaville,Italian,3.1
+1263,"Quinn, Fletcher and Allen",South Andreachester,Italian,4.0
+1264,Moore-Keller,Brianfurt,Italian,3.0
+1265,Avila PLC,Woodfort,Italian,4.8
+1266,"Gonzales, Fields and Cooper",North Paul,Indian,4.0
+1267,Ellison Ltd,Coleberg,Chinese,5.0
+1268,"Henry, Morton and Davis",East Nathanton,Chinese,4.8
+1269,Doyle Group,Brownside,Chinese,3.5
+1270,Molina-Kane,South Lauraburgh,Italian,3.7
+1271,"Morrison, Thornton and Montoya",Port Timothy,Chinese,3.7
+1272,"Campbell, Jones and Burgess",North Joshua,Fast Food,3.9
+1273,Buchanan LLC,Lake Anna,Fast Food,4.4
+1274,White and Sons,Lake Jefferyton,Indian,4.2
+1275,"King, Daniels and Morton",Lake Scottstad,Fast Food,4.3
+1276,Ward-Thomas,Brandiburgh,Italian,4.0
+1277,Bradley-Jones,West Juan,Chinese,3.6
+1278,Davis-Fisher,Port Eric,Italian,3.7
+1279,"Scott, Flores and Price",Scottburgh,Indian,4.1
+1280,Mcdonald Inc,Marcusland,Fast Food,3.7
+1281,"Nelson, Mcdonald and Howard",Johnnyfort,Chinese,4.9
+1282,Sims Ltd,Bautistatown,Fast Food,3.5
+1283,Sanchez-Foster,Smithville,Italian,3.5
+1284,Mitchell-Moore,Norrishaven,Chinese,3.8
+1285,Cook Ltd,West Marissa,Fast Food,4.0
+1286,"Williams, Caldwell and Morgan",North John,Italian,3.6
+1287,Buchanan and Sons,Brianville,Fast Food,4.5
+1288,Webb LLC,Erinfort,Fast Food,4.9
+1289,Thomas and Sons,Velasquezfurt,Italian,4.7
+1290,Robertson Inc,Doyleburgh,Chinese,4.8
+1291,Jones-Rosario,New Walterbury,Italian,3.8
+1292,Clarke-Wood,East Anthonytown,Chinese,4.5
+1293,Manning-Kelley,West Evanfort,Italian,3.8
+1294,"Stevens, Brown and Hudson",Kristinafurt,Italian,4.9
+1295,"French, Haley and Bautista",South Noahshire,Chinese,4.1
+1296,Mitchell PLC,Davidmouth,Italian,4.7
+1297,"Rivas, Hull and Nelson",Mcguirechester,Chinese,4.5
+1298,"Morris, Charles and Smith",Greeneside,Italian,3.4
+1299,Jenkins-Castro,Nathanielberg,Italian,4.9
+1300,Davis-Smith,Smithton,Fast Food,4.4
+1301,Howell Group,Jonesport,Chinese,4.9
+1302,Lang and Sons,Lake Emily,Italian,4.5
+1303,Oconnor-Nguyen,Baileybury,Fast Food,4.3
+1304,Brown and Sons,Stephanieberg,Chinese,4.5
+1305,Hernandez-Mitchell,West Jason,Chinese,4.7
+1306,Evans Ltd,East Christine,Indian,4.9
+1307,Henderson-Martin,West Michaelchester,Indian,4.6
+1308,"Williams, Green and Cain",Wandachester,Chinese,4.5
+1309,"Rojas, Salazar and Scott",Stevensonstad,Indian,5.0
+1310,Berry Inc,Josephmouth,Italian,4.7
+1311,Moore Ltd,Lisastad,Italian,3.6
+1312,Montoya-Lewis,Penningtonport,Indian,4.3
+1313,Davidson PLC,East Catherine,Fast Food,5.0
+1314,"Mills, Reynolds and Mack",Phillipshaven,Italian,5.0
+1315,"Farley, Gonzalez and Ward",Danielleland,Italian,3.0
+1316,Hendricks and Sons,West Cindyfurt,Indian,3.3
+1317,"Johnson, Campbell and Gonzalez",West Miguel,Italian,4.3
+1318,Henson Group,West Jonfurt,Italian,4.7
+1319,"Brown, Robertson and Copeland",Port Daniellebury,Italian,3.5
+1320,"Miles, Perkins and Escobar",Port Jenniferstad,Indian,3.8
+1321,Shaw PLC,Katieview,Italian,5.0
+1322,Owens-Bates,Ronaldhaven,Indian,4.4
+1323,Blanchard-Ramos,Nielsenland,Italian,4.1
+1324,"Mejia, Bates and Nielsen",Lloydport,Fast Food,3.3
+1325,Holland PLC,North Julie,Italian,4.8
+1326,Whitney-Smith,Tammyhaven,Italian,3.0
+1327,"Stephens, Ford and Smith",Davisshire,Fast Food,4.2
+1328,Brown-Martin,North Gerald,Chinese,3.9
+1329,Long-Hernandez,Sanchezview,Fast Food,4.8
+1330,Diaz and Sons,Housefort,Chinese,3.2
+1331,Ochoa-Smith,New Heather,Italian,3.6
+1332,Smith PLC,Lake Jorgefurt,Chinese,4.9
+1333,Glass-Pierce,Anthonyburgh,Italian,5.0
+1334,"Huff, Bradley and Carter",North Robin,Indian,5.0
+1335,Strong-Cooley,Nicholsberg,Fast Food,3.2
+1336,Peterson Inc,Port Johnchester,Chinese,4.5
+1337,Hudson-Smith,North Jamesbury,Fast Food,3.4
+1338,Singh-Figueroa,Robertbury,Indian,4.7
+1339,"Sherman, Fischer and Wade",New Feliciahaven,Chinese,3.8
+1340,Bartlett-Smith,Fosterton,Chinese,4.6
+1341,Lloyd and Sons,Philipton,Fast Food,4.6
+1342,Lawson Inc,Wheelerstad,Indian,3.5
+1343,Giles-Williams,West Michelleshire,Indian,4.0
+1344,"Brennan, Love and Anderson",Taylortown,Fast Food,3.1
+1345,"Jones, Smith and Dean",New Pamela,Fast Food,3.9
+1346,Adams Inc,Port Autumn,Chinese,4.2
+1347,"Smith, Rivera and Scott",Myersstad,Fast Food,3.2
+1348,Smith Ltd,Markshaven,Italian,4.8
+1349,Bush-Rodriguez,Wilsonberg,Indian,3.7
+1350,"Hudson, Baker and Murphy",Jamesfurt,Italian,3.2
+1351,"Foster, Taylor and Garza",South Jeffrey,Chinese,3.6
+1352,Morrow-Clark,Walkerchester,Chinese,3.5
+1353,Norris PLC,Saraborough,Italian,3.8
+1354,"Torres, Medina and Jones",Jessicastad,Chinese,3.1
+1355,Hogan Inc,Port Lauren,Chinese,3.3
+1356,Williams-Morgan,Morrowfort,Indian,3.2
+1357,"Ward, Smith and Watkins",Kristinehaven,Fast Food,4.6
+1358,Foster and Sons,South Christine,Chinese,4.0
+1359,Hunt-Dunn,Kennedyfurt,Italian,3.0
+1360,Tapia Inc,Dixonfurt,Chinese,3.0
+1361,"Craig, Ramsey and Morse",Lloydtown,Chinese,3.5
+1362,"Richardson, Morgan and Smith",New Amber,Fast Food,4.2
+1363,Jacobs-Lewis,South Heatherfurt,Fast Food,4.0
+1364,Watson-Nicholson,South Brianna,Italian,4.6
+1365,Rodgers PLC,Cynthiamouth,Chinese,3.6
+1366,Austin-Farmer,Smithfurt,Italian,3.7
+1367,"Davis, Moore and Henry",Changstad,Chinese,3.1
+1368,Morales-Nguyen,Linbury,Chinese,5.0
+1369,Watkins LLC,Kristintown,Italian,4.3
+1370,Chapman-Long,Michelestad,Indian,4.0
+1371,Heath Inc,New Thomashaven,Indian,4.2
+1372,Powell-Miller,North Dorothystad,Chinese,3.9
+1373,Perry LLC,Davidburgh,Italian,3.2
+1374,Moore Group,West Kimberlyshire,Italian,3.8
+1375,Jefferson-Morris,New Jacquelineview,Fast Food,3.2
+1376,Yoder PLC,Port Kirk,Chinese,4.9
+1377,Salazar-Moore,South Barbarafort,Fast Food,4.8
+1378,Morris-Pierce,Monroefurt,Indian,3.3
+1379,White-Lopez,Adamstown,Chinese,3.6
+1380,Curtis and Sons,East Juliamouth,Italian,4.1
+1381,Brown Ltd,South Sarah,Indian,4.8
+1382,Sanchez Group,Stevenfort,Chinese,4.6
+1383,Hamilton-Perez,Lake Vicki,Italian,4.6
+1384,Atkins Group,Leonardstad,Italian,4.1
+1385,Ingram Inc,South Lori,Indian,4.7
+1386,Campos Inc,Port Aprilborough,Indian,4.5
+1387,Bryant LLC,Hannahburgh,Italian,3.4
+1388,Hebert Ltd,South Jennifershire,Chinese,3.7
+1389,"Barker, Key and Hancock",Jimmyport,Indian,4.6
+1390,"Curry, Rice and Wallace",Harrischester,Italian,3.0
+1391,"Williams, Howard and Brown",Katherineport,Fast Food,4.6
+1392,Rodriguez and Sons,Melendezstad,Indian,4.3
+1393,Guzman and Sons,Emilyburgh,Indian,4.9
+1394,"Bauer, Johnson and Nelson",East Sean,Italian,3.8
+1395,Martinez-Singh,Port Diana,Chinese,4.7
+1396,"Morris, Glass and Campbell",Lake Derekfort,Italian,4.4
+1397,"Harper, Price and Harrington",Andreafort,Fast Food,4.6
+1398,Singleton-Proctor,Brittanystad,Fast Food,4.2
+1399,Ellison Group,North Nicoleport,Italian,3.2
+1400,"Anthony, Riley and Williams",Cynthialand,Indian,3.2
+1401,Smith and Sons,South Olivia,Fast Food,5.0
+1402,"Miller, King and Briggs",Robertmouth,Indian,3.2
+1403,"Newton, Davenport and Donovan",West Robert,Fast Food,4.3
+1404,"Herrera, Cruz and Warner",Dawnport,Fast Food,3.5
+1405,"Rocha, Morris and Nelson",East Jonathan,Indian,4.5
+1406,Skinner LLC,New Dawnburgh,Indian,4.5
+1407,Thomas-Ford,Brittanystad,Italian,4.3
+1408,Strong PLC,Chrisside,Fast Food,4.0
+1409,Wiley Group,Port Jennyberg,Italian,3.6
+1410,Monroe LLC,East Debraville,Fast Food,3.1
+1411,Reyes-Wheeler,Cochranhaven,Chinese,4.7
+1412,Martinez-Sloan,Bryanburgh,Italian,3.6
+1413,Sharp-Cooper,Lake James,Italian,3.2
+1414,Bradshaw Inc,South Stephenhaven,Chinese,3.9
+1415,Grant-Richards,Port Chelseaville,Chinese,4.7
+1416,Anderson and Sons,Lindseybury,Fast Food,3.8
+1417,Espinoza-Herrera,Port Adrian,Italian,4.7
+1418,Lambert-Howard,West Stacey,Indian,4.2
+1419,Gallagher-Davis,Lake Kevinberg,Fast Food,3.1
+1420,Nelson-Thompson,Lake Derek,Chinese,3.0
+1421,Jarvis LLC,Youngbury,Indian,3.3
+1422,"Kelly, Norris and Russell",Marcusport,Italian,3.5
+1423,Gates and Sons,Lake Johnhaven,Fast Food,4.8
+1424,Cortez and Sons,Tammyside,Italian,4.0
+1425,Forbes-Higgins,Mendozastad,Chinese,4.1
+1426,"Gonzalez, Erickson and Hart",East Charles,Indian,3.7
+1427,Pearson and Sons,Austinview,Indian,4.8
+1428,Crosby and Sons,Port Jenniferberg,Chinese,4.4
+1429,"Taylor, Banks and Cruz",Perezstad,Italian,3.3
+1430,Thompson Group,East Megan,Chinese,4.9
+1431,"Reyes, Martinez and Lowery",Lake Allisonhaven,Italian,3.6
+1432,Smith PLC,North Kristopherchester,Indian,3.4
+1433,"Nichols, Wiley and Giles",North Ronaldmouth,Fast Food,4.9
+1434,Smith-Daniels,New Mark,Italian,3.2
+1435,Henderson PLC,Johnsonfort,Chinese,4.9
+1436,Grant PLC,Bellton,Fast Food,4.7
+1437,"Oliver, Schneider and Benson",West Kevinbury,Chinese,3.5
+1438,Collins-Carroll,Tonyburgh,Chinese,3.2
+1439,"Bell, Roy and Robinson",Darrellhaven,Chinese,3.2
+1440,Lawrence-Wilkins,Samanthabury,Fast Food,4.0
+1441,Ruiz-Wells,North Jeffreyfurt,Italian,3.8
+1442,White-Carson,South Timothy,Chinese,3.5
+1443,Love-Schwartz,Lloydstad,Chinese,3.2
+1444,Rogers-Christian,Lake Susan,Fast Food,3.6
+1445,Willis-Mcintosh,Dwayneshire,Fast Food,3.1
+1446,Miller Group,Nancyton,Italian,3.7
+1447,Wright Inc,Thomasberg,Chinese,3.9
+1448,"Cooper, Barnes and Joyce",East Sandyberg,Chinese,3.6
+1449,Edwards-Knight,South Jessica,Fast Food,4.1
+1450,House-Smith,Josephberg,Indian,4.0
+1451,Cochran LLC,Angelatown,Fast Food,3.7
+1452,Walker Ltd,Port Allen,Italian,4.9
+1453,Watson-Payne,Chrisfort,Chinese,3.4
+1454,Brown LLC,Stevensburgh,Italian,4.6
+1455,"Durham, Alexander and Jimenez",Lake Heathermouth,Chinese,4.8
+1456,Gordon and Sons,Sherrimouth,Fast Food,4.8
+1457,Mcbride LLC,Hugheschester,Chinese,4.2
+1458,"Martin, Arias and Spence",Lake Sarahmouth,Fast Food,3.3
+1459,Avila Group,West Mark,Chinese,3.7
+1460,Wood Inc,South Ianhaven,Italian,3.8
+1461,Thomas and Sons,Moniquechester,Italian,3.3
+1462,Hicks Group,New Nicholasstad,Fast Food,3.8
+1463,Avery-Bauer,East Tracy,Chinese,4.7
+1464,Kelly-Fuller,East Deborahport,Fast Food,4.1
+1465,"Obrien, Martin and Martin",Port Autumnbury,Chinese,3.8
+1466,Schmidt-Taylor,South Brian,Fast Food,3.3
+1467,Bradley-Barker,West Christopherville,Indian,3.9
+1468,"Mcneil, Lee and Mendoza",Brennanport,Fast Food,5.0
+1469,"Sawyer, Williams and Jones",East Aliciaton,Chinese,3.1
+1470,Turner and Sons,New Robin,Italian,4.3
+1471,Gibson-Parker,Joseton,Chinese,4.1
+1472,"Rodriguez, Reynolds and Lam",Powersside,Italian,3.3
+1473,Herman PLC,New Jennifer,Fast Food,4.4
+1474,Murray PLC,East Manuelfurt,Italian,4.3
+1475,Lam Inc,Maryberg,Chinese,4.3
+1476,"Luna, Daniels and Campbell",North Ashley,Indian,4.3
+1477,Green-Lin,Richardmouth,Fast Food,3.4
+1478,"Garza, Brown and Koch",North Breannaburgh,Indian,4.5
+1479,Johnson PLC,South Chrisside,Indian,3.5
+1480,"Cole, Barrett and Jones",Barkerview,Indian,4.0
+1481,Cole-Hernandez,West Amy,Indian,4.1
+1482,"Osborne, Burgess and Boyd",North Robert,Chinese,4.7
+1483,Diaz-Klein,Sarahchester,Chinese,4.3
+1484,Williams Ltd,Lake Scottfort,Italian,4.4
+1485,Page-Carter,West Dustinshire,Italian,3.6
+1486,Schultz PLC,Smithborough,Chinese,4.1
+1487,Jenkins-Mcdonald,Sanchezton,Chinese,3.9
+1488,"Shaffer, Hoover and Becker",Taylorview,Fast Food,4.1
+1489,Warner and Sons,Andersontown,Chinese,4.7
+1490,Herrera Group,Port Williamhaven,Fast Food,5.0
+1491,"Stanton, Warren and Morgan",Erinshire,Fast Food,4.3
+1492,Long and Sons,Thomasborough,Fast Food,4.0
+1493,"Medina, Boyer and Gonzalez",East Scottport,Chinese,4.7
+1494,"Tran, Cruz and Howard",East Markmouth,Fast Food,3.0
+1495,Woods Group,Deborahbury,Fast Food,3.3
+1496,Mack LLC,East Jenniferchester,Italian,4.2
+1497,Valdez-Green,Stephenside,Indian,4.5
+1498,Thompson-Henry,Fleminghaven,Fast Food,4.4
+1499,Weaver Group,Greeneview,Chinese,4.1
+1500,Hendrix-Davis,North Ashleyside,Indian,4.9
+1501,Gregory Group,Marybury,Italian,3.6
+1502,Solis Inc,Port Christinatown,Fast Food,3.6
+1503,Bass-Castro,North Kennethport,Fast Food,4.5
+1504,Jenkins-Green,Rebekahside,Chinese,4.1
+1505,Mccarty-Taylor,Mitchellshire,Indian,4.8
+1506,Miller-Berry,Aliciastad,Italian,3.8
+1507,Owens-Hale,Port Jennabury,Indian,4.9
+1508,Roman-Blair,North Robertview,Chinese,4.4
+1509,Butler Inc,Lake Theresa,Fast Food,3.3
+1510,Gomez-Garcia,North Amberport,Chinese,3.4
+1511,Campbell Inc,Annside,Chinese,4.4
+1512,Kelly Inc,Danside,Fast Food,3.5
+1513,Mercado-Castro,West Martinmouth,Italian,3.6
+1514,"Whitaker, Quinn and Davis",New Patriciaport,Italian,3.5
+1515,Luna Inc,Danielton,Indian,3.8
+1516,Baker-Richard,Davidberg,Italian,3.4
+1517,Blankenship Inc,Port Cindy,Fast Food,4.6
+1518,"Yoder, Heath and Wiley",New Jenniferhaven,Indian,3.4
+1519,Miller-Perkins,Danaton,Chinese,3.7
+1520,Barnes Ltd,Ramirezport,Indian,4.0
+1521,Hernandez-Freeman,Lake Chadville,Chinese,3.8
+1522,Hood-Hess,West Amanda,Indian,3.6
+1523,Perry Inc,Davidfurt,Fast Food,4.9
+1524,"Rivera, Schneider and Clements",South Chad,Italian,3.5
+1525,"Martinez, King and Solomon",Richardville,Indian,3.9
+1526,Kelly Ltd,Rachelshire,Fast Food,4.0
+1527,Frye-Brandt,East Charlesland,Indian,4.6
+1528,Williams-Mack,Downsfurt,Fast Food,3.4
+1529,"Tyler, White and Hernandez",Josephton,Italian,4.4
+1530,Hernandez-Wilson,North Clarencehaven,Italian,4.4
+1531,Ruiz Ltd,Brianport,Italian,4.9
+1532,Moore PLC,Smithfurt,Italian,4.8
+1533,Ford Group,Benjaminstad,Indian,3.4
+1534,Davis-Serrano,Laurastad,Indian,4.3
+1535,Boyd Group,Raymondburgh,Italian,3.7
+1536,Smith-Johnson,Natalieton,Fast Food,3.9
+1537,Moore-Harris,Sanchezport,Italian,4.2
+1538,Day-Harrison,Chadtown,Italian,3.9
+1539,"Schneider, Spencer and Burns",East Jennaborough,Indian,4.7
+1540,Shannon-Shelton,North Sallyhaven,Italian,4.2
+1541,"Young, Lucas and Allen",Smithton,Indian,4.7
+1542,Anderson-Roberts,Lake Rhondashire,Chinese,3.6
+1543,Park-Burton,East Debra,Italian,3.7
+1544,Allen-Sherman,New Kevinbury,Fast Food,4.3
+1545,Reese Group,South Michellestad,Chinese,4.5
+1546,Deleon-Baker,Gregorychester,Fast Food,3.9
+1547,"Holmes, Barnes and Baker",Katherinehaven,Chinese,3.8
+1548,Jackson-Williams,New Jason,Chinese,3.4
+1549,Miller-Freeman,Port Scott,Italian,4.0
+1550,Williams Group,Chadland,Chinese,4.2
+1551,Anderson-Davis,Lake Mary,Fast Food,3.1
+1552,Nelson-Miller,Wesleychester,Italian,3.2
+1553,"Cain, Robinson and Diaz",Arthurland,Chinese,3.2
+1554,Frank-Fox,Taylorton,Indian,3.4
+1555,Guzman and Sons,Port Peggy,Fast Food,4.8
+1556,Butler-Phillips,Jamesberg,Fast Food,3.6
+1557,"Mendez, Miller and Williams",West Shelby,Chinese,3.3
+1558,Cisneros Inc,Williamsfurt,Italian,4.2
+1559,"Monroe, Callahan and Johnson",Lauraborough,Italian,4.3
+1560,Alvarez Inc,East Jamesfort,Fast Food,4.5
+1561,Myers and Sons,Susanhaven,Chinese,3.1
+1562,Norman-Mcclain,West Jennaborough,Chinese,4.1
+1563,Johnson-Brown,Fosterville,Fast Food,3.7
+1564,Gonzales-Brown,Collinsbury,Fast Food,4.8
+1565,Flores-Chandler,West Kristy,Chinese,3.3
+1566,Thompson PLC,Munozfurt,Indian,4.9
+1567,"Mckenzie, Munoz and Roberts",Carlsonside,Indian,3.5
+1568,"Jones, Davis and Rodriguez",West Mark,Italian,4.8
+1569,"Rowe, Hendricks and Richardson",Port Allisonstad,Chinese,5.0
+1570,"White, Armstrong and Garner",Davidside,Chinese,3.3
+1571,"Johnson, Li and Campos",Margaretborough,Italian,3.9
+1572,Jimenez Inc,South Kevinburgh,Fast Food,4.1
+1573,"Williams, Dillon and Little",Phillipsport,Fast Food,3.5
+1574,Rowe Ltd,Port Vanessastad,Fast Food,3.5
+1575,Fletcher PLC,West Christinaview,Fast Food,4.5
+1576,Reed-Campbell,Laurenton,Chinese,3.0
+1577,Robertson-Yoder,Mitchellstad,Italian,4.7
+1578,"Aguirre, Riley and Rodriguez",New Stephen,Chinese,3.1
+1579,"Hancock, Stanton and Humphrey",South Jonathan,Chinese,3.6
+1580,"Ruiz, Gomez and Gentry",East Katrina,Italian,4.2
+1581,White and Sons,Johnathantown,Italian,3.9
+1582,Webster and Sons,Brendaburgh,Fast Food,5.0
+1583,Williamson-Palmer,Matthewville,Italian,4.6
+1584,"Davis, Scott and Alexander",Wendymouth,Chinese,3.2
+1585,Anderson and Sons,North Saraville,Fast Food,3.1
+1586,"Taylor, Castaneda and Burnett",Andrewfurt,Indian,3.7
+1587,Hodges Inc,North Christopher,Fast Food,3.0
+1588,Atkins-Young,New John,Chinese,3.4
+1589,"Williams, Diaz and Kennedy",North Larryshire,Italian,3.4
+1590,"Brown, Berry and Marsh",East Garrettview,Indian,4.0
+1591,"Ross, Herman and Sloan",Andrewtown,Chinese,3.8
+1592,"Johnson, Miller and Holmes",Stephenchester,Fast Food,3.6
+1593,"Lee, Gonzalez and Morgan",Port Amanda,Chinese,4.1
+1594,Vega-Ramsey,East Randychester,Chinese,3.4
+1595,"Williams, Cordova and Knapp",Kellybury,Indian,3.4
+1596,Herman-Nielsen,Griffithburgh,Fast Food,4.0
+1597,"Davis, Johnston and Weber",Jeffersonberg,Indian,3.1
+1598,Watts-Smith,East Trevor,Chinese,3.8
+1599,"Howard, Johnson and Moore",Katherineberg,Fast Food,3.5
+1600,Armstrong-Russell,East Victoriatown,Chinese,4.7
+1601,"Morse, Garcia and Coleman",Harrisport,Indian,3.8
+1602,"Bradford, Cohen and Bell",Staceyland,Fast Food,3.5
+1603,Kent-Golden,Jonesside,Italian,3.3
+1604,Mcdonald Ltd,Port Catherine,Fast Food,3.6
+1605,James-Armstrong,Washingtonmouth,Chinese,3.8
+1606,"Caldwell, Howell and Hernandez",Potterchester,Chinese,3.6
+1607,"Kelly, Barry and Ramirez",Wellsstad,Fast Food,3.6
+1608,Jimenez PLC,South Eric,Italian,3.4
+1609,Dixon-Dennis,Guerreroview,Indian,4.3
+1610,"Taylor, Hoffman and Smith",Andreaburgh,Indian,3.4
+1611,"Dyer, Moore and Blevins",New Karla,Italian,4.3
+1612,Cole-Krause,Michelleville,Italian,3.0
+1613,Ward-Conway,West Holly,Indian,4.0
+1614,"Miller, Garcia and King",Lake Dillonmouth,Chinese,4.7
+1615,"Holland, Oconnell and Moore",Longland,Chinese,3.6
+1616,Beasley-Wilson,South Kentmouth,Chinese,4.8
+1617,Bullock-Graham,Danielfort,Fast Food,4.6
+1618,Rodriguez PLC,Williammouth,Fast Food,3.3
+1619,Rogers and Sons,East Jennaview,Fast Food,4.3
+1620,Patterson-English,Yvonneland,Chinese,3.2
+1621,"Gray, Bennett and Walker",East Troymouth,Fast Food,3.7
+1622,"Foley, Marshall and Jimenez",East Dylan,Chinese,4.5
+1623,"Collier, Richards and Hester",North Curtisland,Chinese,4.9
+1624,Thompson Inc,Andrewchester,Italian,4.2
+1625,Davidson Group,West Tony,Fast Food,4.9
+1626,Gilbert and Sons,East Richard,Italian,3.9
+1627,"Morgan, Fowler and Anderson",Port Megan,Chinese,4.1
+1628,"Garcia, Nichols and Smith",Zoeborough,Chinese,4.5
+1629,Jennings and Sons,Richardsonburgh,Indian,4.3
+1630,Gray-Stewart,New Nicole,Fast Food,4.8
+1631,Williams-Stephenson,Maryport,Chinese,3.9
+1632,Obrien and Sons,Toddton,Indian,3.2
+1633,Berger-Johnson,East Darrenton,Fast Food,4.5
+1634,Morgan-Bautista,South Lisaville,Chinese,3.5
+1635,"Moore, Johnson and Summers",Andradeville,Fast Food,3.9
+1636,"Williams, Yates and Mitchell",Natalieborough,Chinese,3.5
+1637,Harper-Brown,New Robert,Fast Food,4.4
+1638,"Taylor, Roberts and Horton",South Lisafurt,Indian,3.9
+1639,Williams-Green,Fosterville,Fast Food,4.1
+1640,"Mitchell, Pennington and Murray",East Rhonda,Indian,3.3
+1641,Reed PLC,Port Patrick,Italian,3.4
+1642,Patel-Lewis,Thomasfurt,Fast Food,4.9
+1643,"Walters, Johnson and Cox",New Steven,Chinese,3.3
+1644,"Smith, Solis and Perkins",Davidberg,Fast Food,4.3
+1645,Hill-Goodman,North Carolyn,Italian,5.0
+1646,"Perez, Flores and Smith",New Deborahchester,Italian,3.3
+1647,"Hall, Fox and Williams",North Zachary,Fast Food,3.8
+1648,Powell Inc,Brianshire,Fast Food,4.0
+1649,Sanders Group,Danielsborough,Italian,3.6
+1650,"Odonnell, Gutierrez and Miller",Vincentton,Fast Food,3.8
+1651,"Williams, Howard and Hernandez",Port Jamesland,Indian,4.0
+1652,Holt PLC,New Jonathantown,Fast Food,4.2
+1653,Campbell-Sheppard,Pamelachester,Indian,4.3
+1654,Mcclure-Guzman,New Lori,Indian,3.4
+1655,"Lopez, Howe and Wade",Lake Marymouth,Fast Food,3.8
+1656,"Kim, Cortez and Weber",East Suzannemouth,Fast Food,3.9
+1657,"Andersen, Smith and Valencia",North Jared,Indian,3.6
+1658,"Burch, Wolfe and Gardner",Jonathanton,Chinese,3.8
+1659,Gonzalez Group,New Coryton,Italian,4.2
+1660,Mora Inc,Angelicaberg,Chinese,4.1
+1661,Phillips and Sons,West Christopher,Indian,4.4
+1662,"Mccullough, Johnson and Sanchez",Huynhhaven,Italian,4.0
+1663,Jones-Moses,Alexside,Chinese,3.7
+1664,"Carrillo, Bryant and Perry",North Jeremy,Fast Food,3.9
+1665,Terry-Woods,Rebeccamouth,Fast Food,4.9
+1666,Hammond-Mendez,Clairemouth,Indian,4.7
+1667,"Smith, Weiss and Reynolds",Smithland,Italian,4.4
+1668,Dunlap-Rodriguez,Martinburgh,Chinese,5.0
+1669,Chambers PLC,Jenniferfurt,Chinese,4.0
+1670,Smith-Williams,New Timothymouth,Indian,4.9
+1671,"Hines, Williams and Gonzalez",West Dawnmouth,Indian,4.7
+1672,Baldwin and Sons,Andersonville,Fast Food,4.7
+1673,Andrews-Leonard,Gutierrezburgh,Indian,4.9
+1674,"Frost, Jones and Brewer",New Felicia,Chinese,4.3
+1675,"Rivera, Davis and Shepard",New Grace,Fast Food,3.5
+1676,Kennedy-Kelley,Clarktown,Fast Food,3.6
+1677,"Green, Mitchell and Hernandez",Danielhaven,Indian,4.3
+1678,"Colon, Chavez and Dorsey",North Nancy,Chinese,3.5
+1679,Johnson-Beard,Drewshire,Fast Food,4.3
+1680,White-Cox,Nicoleshire,Fast Food,4.7
+1681,"Smith, Thomas and Beck",New Robert,Chinese,3.6
+1682,"Brady, Logan and Roberts",Angelaton,Indian,4.8
+1683,"Rogers, Davenport and Cook",North Thomas,Chinese,4.6
+1684,Sawyer-Jones,Garrisonburgh,Italian,4.2
+1685,Parks-West,Port Tammymouth,Italian,3.7
+1686,Warren-Hall,Crystalbury,Fast Food,3.5
+1687,Moore LLC,Herreraburgh,Chinese,4.3
+1688,"Gibson, Coleman and Edwards",North Vanessaside,Indian,3.4
+1689,"Holmes, White and Peters",Lake Nicholas,Chinese,4.8
+1690,Williams LLC,Lake Maria,Italian,5.0
+1691,Vargas Inc,West Charlesville,Fast Food,3.6
+1692,Allen-Martin,Cathyland,Italian,4.9
+1693,"Porter, Odom and Williams",Aaronshire,Indian,4.6
+1694,Townsend-Sutton,West Seanborough,Fast Food,4.1
+1695,Mcbride-Hernandez,New Patriciaville,Indian,4.0
+1696,Smith-Edwards,West Robertburgh,Italian,4.3
+1697,Brown Group,Welchville,Fast Food,4.6
+1698,"Smith, Gallagher and Thomas",Alanshire,Chinese,3.6
+1699,Smith-Colon,East Trevor,Italian,4.2
+1700,"Hamilton, Barnes and Glover",New Natasha,Indian,3.3
+1701,"Brooks, Flores and Smith",Millermouth,Italian,4.7
+1702,Johnson-Wilkinson,Arianaberg,Italian,3.5
+1703,"Lawrence, Bridges and Contreras",Lake Denise,Indian,4.5
+1704,Downs-Burnett,East Stephen,Chinese,4.3
+1705,"Tapia, Mitchell and Krause",Port Adam,Chinese,4.6
+1706,Roth-Clay,North Peter,Fast Food,3.6
+1707,Dixon PLC,Brianburgh,Fast Food,3.7
+1708,Hernandez Ltd,East Kim,Fast Food,3.7
+1709,"Weaver, Bush and Mendoza",Chenport,Chinese,4.8
+1710,Potter PLC,Mcguireport,Fast Food,4.7
+1711,Shelton LLC,East Jessicaborough,Indian,4.2
+1712,King PLC,Bradshawmouth,Fast Food,4.1
+1713,"Phillips, Perry and Martin",Lake Kellyside,Fast Food,3.8
+1714,Murphy-Smith,Patrickfurt,Chinese,3.1
+1715,Lewis Inc,Michelleton,Indian,3.2
+1716,Williams-Gill,West Kevin,Indian,4.9
+1717,Mason LLC,Lake Tammy,Fast Food,4.4
+1718,King LLC,Lake Jeremychester,Chinese,4.3
+1719,Lee-Wright,Hayesshire,Italian,4.8
+1720,Fields PLC,West Zoeborough,Chinese,3.8
+1721,Mitchell-Stanley,East Matthew,Indian,4.5
+1722,"Woodard, Jordan and Kim",Lake Michael,Fast Food,3.1
+1723,King LLC,Robinmouth,Fast Food,3.9
+1724,Adkins PLC,Danieltown,Indian,3.4
+1725,Hernandez-Roberts,South Leahstad,Fast Food,3.8
+1726,Marshall-White,Mcconnellville,Italian,3.8
+1727,"Lopez, Martinez and Porter",Andrewsborough,Italian,4.8
+1728,"Reed, Campbell and Kennedy",Willisstad,Indian,4.0
+1729,"Lee, Hernandez and Flores",Port Travis,Fast Food,4.8
+1730,Turner-Zuniga,Andrewberg,Chinese,3.1
+1731,Smith-Diaz,Nicoletown,Fast Food,3.4
+1732,Zuniga-Huang,West Samanthaburgh,Italian,3.4
+1733,Palmer-Sosa,New Kimberlymouth,Indian,3.4
+1734,Thomas-Garrett,New James,Italian,3.7
+1735,Brown-Brandt,South Kimberly,Indian,4.4
+1736,Sherman LLC,Rodriguezville,Indian,3.2
+1737,Baker-Jones,Lake Ashley,Chinese,4.8
+1738,"Williams, Evans and Peterson",New Tylerbury,Chinese,3.5
+1739,Norman-Bailey,Lake Jacob,Fast Food,3.2
+1740,Walker-Scott,South Patricia,Fast Food,3.4
+1741,Hughes and Sons,Lopezbury,Italian,4.0
+1742,Berry and Sons,Port Jesse,Chinese,4.6
+1743,"Smith, Higgins and Wallace",Cunninghamport,Indian,4.2
+1744,Roman Ltd,Ericfurt,Fast Food,3.1
+1745,Harper-Carter,Weaverburgh,Italian,4.6
+1746,"Mann, Johnston and Vasquez",Lake Danielport,Chinese,4.5
+1747,Johnson-Jordan,West Elizabethstad,Fast Food,3.7
+1748,"Moore, Patterson and Lewis",West Ericstad,Italian,3.9
+1749,"Robinson, Merritt and Navarro",Suefort,Chinese,3.7
+1750,Pace-Bryant,Kylebury,Fast Food,4.2
+1751,Knapp-Henderson,North Aliciaville,Italian,3.0
+1752,Ward Ltd,New Crystalmouth,Indian,4.2
+1753,"Boyle, Dixon and Ramos",Davidfurt,Italian,4.7
+1754,Schneider-Neal,New Jenniferchester,Chinese,3.6
+1755,"Marsh, Torres and Tucker",North Franklinport,Italian,3.4
+1756,Guerrero Group,Jeremyview,Indian,4.6
+1757,Morgan-Peters,Port Gabriel,Chinese,4.4
+1758,"Watson, Watson and Harris",West Reneeton,Indian,4.5
+1759,"Adams, Kelley and Washington",New Steven,Fast Food,4.2
+1760,Stewart-Garrison,Valdeztown,Italian,4.8
+1761,"Hutchinson, Macdonald and Murray",Longchester,Italian,3.4
+1762,Neal-King,Biancaside,Fast Food,3.1
+1763,Paul PLC,Craigfurt,Fast Food,4.4
+1764,"Hill, Carter and Thomas",Shannonland,Chinese,4.1
+1765,Martin PLC,West Miranda,Fast Food,3.1
+1766,Massey LLC,Laneview,Italian,3.4
+1767,Palmer Inc,Port Danielleville,Chinese,4.1
+1768,"Fields, Fox and Bryant",Nelsonport,Fast Food,3.9
+1769,Sellers and Sons,West Emilystad,Italian,4.6
+1770,"Manning, Miller and Hernandez",West Francesstad,Fast Food,3.1
+1771,"Phillips, Rodriguez and Ayers",Amyshire,Fast Food,4.0
+1772,Johnson-Thompson,Pamelamouth,Indian,3.6
+1773,Davis LLC,Bennettside,Italian,3.4
+1774,"Turner, Grant and Hernandez",Sarachester,Fast Food,3.9
+1775,Rodriguez Inc,Tinaside,Indian,4.8
+1776,"Quinn, Sanford and Miller",Macdonaldtown,Italian,4.4
+1777,Matthews LLC,New Bradley,Chinese,3.7
+1778,Harvey-Holloway,Lake Paula,Indian,3.9
+1779,"Baldwin, Palmer and Parker",West Williamfort,Italian,4.2
+1780,"Boyd, Heath and Patterson",Longtown,Chinese,4.8
+1781,"Nichols, Carr and Moore",Brandistad,Fast Food,4.7
+1782,"Walker, Jones and Gomez",Garciaburgh,Indian,4.2
+1783,Davis Inc,Port Teresa,Fast Food,3.9
+1784,Bailey Inc,Kennethborough,Fast Food,3.4
+1785,Solis-Rojas,Juliafort,Indian,4.4
+1786,"Bush, Friedman and Ortiz",South Rickyside,Indian,3.5
+1787,Baker-Brown,Port Elizabethbury,Fast Food,4.9
+1788,Kelly Ltd,Prattfort,Italian,4.6
+1789,Sims Ltd,North Patrick,Fast Food,3.2
+1790,Torres-Pham,New Yvonne,Fast Food,3.5
+1791,Sims-Cross,Chadfurt,Chinese,3.2
+1792,Phelps-Guzman,South Debra,Chinese,4.1
+1793,Andrews Inc,Johnport,Fast Food,4.0
+1794,Thomas-Ball,Lake Yolanda,Indian,4.9
+1795,Morgan-Peterson,Morrisport,Indian,4.5
+1796,Wilson-Bell,Sylviaberg,Chinese,3.5
+1797,Brown-Kelly,Collinstown,Chinese,3.4
+1798,Taylor Ltd,North Aaronton,Indian,4.5
+1799,"Williams, Jennings and Barber",Robertside,Fast Food,3.8
+1800,Johnston-Hammond,West Angela,Chinese,5.0
+1801,"Faulkner, Jenkins and Edwards",Zimmermanton,Fast Food,3.6
+1802,"Hebert, Morris and Morris",Millerborough,Chinese,3.5
+1803,"Hodges, Johnson and Shelton",Bakerport,Italian,4.1
+1804,"Mills, Cantu and Mcgee",Heidichester,Chinese,3.0
+1805,"Levine, Bryan and Hernandez",Robinsonbury,Fast Food,3.6
+1806,"Hall, Potts and Mullins",Georgeburgh,Italian,3.7
+1807,"Sanders, Zimmerman and Harper",Samanthaburgh,Italian,3.3
+1808,Davis Group,Ronaldside,Italian,4.7
+1809,"Roberts, Edwards and White",West Jon,Indian,3.3
+1810,Ponce-Petersen,Lake Kimberlyview,Italian,4.8
+1811,"Becker, Rich and Richards",South Timothyberg,Fast Food,3.7
+1812,Johnson Inc,Lake Kathryn,Italian,3.4
+1813,"Thomas, Williams and Williams",North Jenniferland,Fast Food,4.6
+1814,Carter-Massey,New Lisaburgh,Chinese,3.6
+1815,Peck Ltd,Johnmouth,Italian,3.1
+1816,Spencer Inc,Alanstad,Italian,4.7
+1817,Lewis-Price,Moodystad,Italian,4.2
+1818,Lloyd LLC,South Richardview,Fast Food,3.8
+1819,"Tanner, Ramirez and Schneider",South Dave,Chinese,3.7
+1820,"Hill, Arnold and Hendricks",Teresachester,Chinese,3.6
+1821,Gray-Hart,Lake Kennethbury,Chinese,3.4
+1822,Martinez-Robinson,West Jenniferfort,Fast Food,3.4
+1823,"Kemp, Mckee and Brooks",Port Joseport,Chinese,3.8
+1824,Rice Group,Jeremyberg,Indian,4.8
+1825,Moore and Sons,West Michael,Italian,4.9
+1826,"Gilbert, Martin and Garner",New Michelle,Chinese,4.1
+1827,Espinoza-Wheeler,Smithburgh,Chinese,4.4
+1828,"Fisher, Blevins and Rodriguez",West Justinmouth,Indian,4.7
+1829,Michael Inc,Cabreraberg,Indian,4.2
+1830,Strickland-Watkins,South Dennisfort,Italian,4.3
+1831,"Vargas, Smith and Johnson",New Stephenchester,Chinese,4.9
+1832,Jordan-Wilson,Reynoldston,Fast Food,4.0
+1833,Valenzuela-Wilson,Sandrahaven,Indian,4.8
+1834,Li and Sons,South Kevinville,Indian,4.1
+1835,Smith Inc,New Jefferyview,Chinese,4.0
+1836,"Jimenez, Herman and Pham",Davidsonberg,Fast Food,3.4
+1837,"Hammond, Spencer and Hunter",Pughside,Indian,4.0
+1838,Dean-Michael,Port Jennifermouth,Indian,4.7
+1839,"Gonzales, Livingston and Tran",Allenside,Indian,4.6
+1840,Moody-Johnson,East Roberto,Indian,4.0
+1841,Hunter-Reeves,New Loriton,Indian,3.7
+1842,"Cooper, Henry and Anderson",East Corey,Fast Food,4.4
+1843,"Paul, Martin and Boyd",West Timothy,Italian,3.9
+1844,Lopez Ltd,South Ryanton,Chinese,3.4
+1845,Williams Group,West Josephview,Fast Food,4.3
+1846,"Carter, Harris and Campbell",Lake Richard,Chinese,3.0
+1847,"Barnes, Anderson and Leon",Port Kimberly,Indian,3.5
+1848,Garza Group,Brownborough,Indian,4.4
+1849,Stephenson and Sons,Gomezberg,Italian,4.1
+1850,"Vasquez, Benitez and Hunt",Colleenburgh,Chinese,3.3
+1851,Silva LLC,Port Kevinfurt,Indian,4.5
+1852,Ellison-Thompson,Laurenton,Chinese,3.5
+1853,"Love, Hoffman and Hernandez",Hopkinstown,Indian,3.2
+1854,"Smith, Jackson and Summers",Melissaton,Indian,3.4
+1855,"Garcia, May and Anderson",Michaelmouth,Indian,4.1
+1856,"Valenzuela, Reed and King",South Christine,Italian,4.3
+1857,"Thomas, Gomez and Becker",New Toddberg,Chinese,3.2
+1858,Foster Group,Matthewtown,Fast Food,3.6
+1859,Bryant-Porter,Michaelfurt,Chinese,4.4
+1860,Lowe-Evans,New Shawn,Indian,3.9
+1861,"Bailey, Johnson and Garza",Richardville,Italian,4.4
+1862,Herrera Group,North Carolyn,Italian,3.0
+1863,Chen Group,Jessicaview,Fast Food,3.8
+1864,Adams-Johnson,Kellerland,Indian,4.9
+1865,Cook Inc,East Heidichester,Indian,3.9
+1866,"Simpson, Schultz and Bender",West Sarah,Fast Food,4.7
+1867,Cummings Inc,Guymouth,Italian,3.7
+1868,Chan LLC,Lisatown,Chinese,3.1
+1869,"Hunt, Gilmore and Green",Blankenshipburgh,Italian,4.0
+1870,"Mcintosh, Garcia and Robinson",North Joseph,Fast Food,3.8
+1871,Hood-Wheeler,Sethstad,Indian,3.5
+1872,"Nelson, Patterson and Cooley",Hectorside,Fast Food,3.7
+1873,"Massey, Howard and Wilson",North Rebeccaview,Indian,3.2
+1874,Vang LLC,Lake Patriciafort,Chinese,3.9
+1875,"Simpson, Winters and Sandoval",South Melinda,Chinese,3.7
+1876,Jackson-Simpson,Port Jeremy,Chinese,3.9
+1877,"Diaz, Sharp and Taylor",Kimchester,Italian,3.0
+1878,Stephens-Stone,Timothymouth,Fast Food,3.8
+1879,"Franco, Acosta and Silva",Lisaborough,Italian,5.0
+1880,Levy-Walker,West Jasonstad,Indian,4.9
+1881,"Douglas, Wilson and Grimes",Millerburgh,Fast Food,4.0
+1882,Gibbs Inc,Garciastad,Italian,4.9
+1883,"Hale, Williams and Pena",West Mary,Italian,3.4
+1884,Roberts PLC,South Cody,Chinese,4.3
+1885,Brandt Group,Johnshire,Indian,4.5
+1886,"Joseph, Stafford and Soto",Smithborough,Chinese,3.8
+1887,Sullivan Group,Morrisonfort,Chinese,3.9
+1888,"Williams, Schaefer and Valenzuela",Clarkside,Chinese,4.8
+1889,Kramer Group,East Alexanderstad,Indian,4.2
+1890,Brown Group,Lake Micheal,Italian,3.1
+1891,Gonzalez-Rose,Berryborough,Chinese,3.5
+1892,Serrano Group,Martinborough,Italian,4.6
+1893,"Mcguire, Moore and Sellers",Harveyfurt,Indian,3.0
+1894,"Wilson, Pearson and Mata",North Mark,Chinese,3.6
+1895,"Benton, Johnston and Bird",Lesterfurt,Italian,3.7
+1896,Dennis PLC,Mayview,Italian,3.1
+1897,Norman Inc,Christianville,Fast Food,4.2
+1898,"Wall, Hayes and Mills",West Andrea,Chinese,3.7
+1899,Miller PLC,Smithport,Italian,4.5
+1900,Booth Inc,East Heatherton,Italian,4.2
+1901,Burton-Johnson,Traceyshire,Chinese,3.2
+1902,Carroll PLC,Cobbfurt,Chinese,4.9
+1903,"White, Rollins and Smith",New Tammyville,Indian,3.3
+1904,Bishop Inc,Flemington,Chinese,3.6
+1905,"Bradshaw, Murphy and Mills",Port Norman,Italian,3.9
+1906,Clark-Miller,New Jessica,Italian,3.5
+1907,Edwards Ltd,East Rebecca,Italian,4.6
+1908,"Adams, Cameron and Wilson",Johnstonberg,Chinese,3.2
+1909,Miller-Hines,Scottchester,Chinese,3.7
+1910,"Leonard, James and Crosby",Ramirezmouth,Fast Food,4.9
+1911,Williams PLC,Hopkinsburgh,Chinese,3.5
+1912,"Bell, Parker and Mack",North Timothy,Chinese,3.7
+1913,Hall-Baldwin,Donnabury,Italian,3.1
+1914,Haas-Collins,Johnsonland,Italian,4.2
+1915,Owen-Christian,Port Bethanyberg,Indian,4.5
+1916,"Pineda, Williams and Nelson",Cindymouth,Italian,4.9
+1917,Turner-Fox,New Davidfort,Italian,3.6
+1918,"Green, Craig and Jensen",Morganfurt,Fast Food,4.8
+1919,Schmidt-Hicks,South Matthew,Fast Food,4.4
+1920,"Brown, Adkins and Cervantes",Davischester,Italian,4.6
+1921,Wilson LLC,Villanuevastad,Chinese,3.2
+1922,Brown Group,South Matthewstad,Fast Food,4.8
+1923,"Thornton, Russell and Kelly",Greenemouth,Chinese,3.3
+1924,Barker LLC,Millermouth,Fast Food,3.7
+1925,"Henry, King and Smith",Lake Camerontown,Fast Food,4.1
+1926,Blanchard Ltd,Bakerberg,Italian,3.2
+1927,Moore LLC,Clarkmouth,Chinese,3.1
+1928,Chapman PLC,East Martinburgh,Fast Food,3.1
+1929,Jackson Group,West Toddmouth,Italian,3.3
+1930,Charles Inc,Port James,Chinese,4.1
+1931,"Simmons, Miller and Perry",Mooreton,Indian,4.2
+1932,Davis-Bailey,Mccarthymouth,Chinese,4.8
+1933,"Brennan, Wilkerson and Carter",Jonesburgh,Italian,3.3
+1934,Phillips Ltd,Adamland,Indian,3.2
+1935,Taylor-Smith,Rodriguezland,Fast Food,4.0
+1936,Hancock LLC,Millerside,Italian,5.0
+1937,Christensen-Klein,Johnstad,Chinese,3.2
+1938,Wright-Schmitt,Baileyfurt,Fast Food,4.1
+1939,Baldwin and Sons,Alexandertown,Indian,4.1
+1940,"Levine, Ward and Perez",Smithshire,Italian,4.1
+1941,Morales-Mcintosh,Hesterland,Chinese,4.7
+1942,Warren Ltd,Ryanville,Chinese,3.4
+1943,Davis LLC,North Kendramouth,Chinese,3.0
+1944,Mendoza PLC,Lake Ian,Chinese,3.6
+1945,Ortiz Inc,Port Christopherfurt,Italian,3.6
+1946,Myers Group,West Michael,Indian,4.7
+1947,"King, Lee and Hopkins",Port Christopher,Italian,5.0
+1948,"Hill, Carter and Willis",Bellborough,Chinese,4.3
+1949,Wolf-Walker,North Rachel,Italian,4.3
+1950,Yang PLC,North Joshua,Fast Food,3.2
+1951,Giles Inc,Bobbyton,Fast Food,3.2
+1952,Richards Group,West Catherineport,Fast Food,4.2
+1953,Jones Inc,Barneshaven,Fast Food,4.1
+1954,Burke Ltd,West Michael,Fast Food,4.7
+1955,"Carter, Bennett and Anderson",Andrewsberg,Chinese,4.7
+1956,Soto and Sons,Adkinsborough,Chinese,4.2
+1957,Ramsey-Morgan,Fowlerville,Fast Food,3.8
+1958,"Hull, Booth and Knox",Port Paul,Fast Food,4.8
+1959,Hart-Harmon,East Briannachester,Italian,3.8
+1960,"Manning, Garcia and Schmidt",North Kyle,Indian,3.6
+1961,Carlson-Ford,Garciaview,Fast Food,3.0
+1962,Byrd LLC,New Markbury,Italian,4.6
+1963,Johnson PLC,Port Michelle,Indian,4.1
+1964,"Cisneros, Johnson and Mathis",South Carrie,Italian,3.4
+1965,Bryant-Myers,North Hollyborough,Indian,4.6
+1966,Harmon Group,South Barbarabury,Italian,3.7
+1967,"Mcconnell, Gray and Lewis",Christopherbury,Italian,3.5
+1968,"Malone, Thompson and Hernandez",North Kathryn,Indian,3.4
+1969,"Gonzales, Thomas and Maynard",West Markborough,Chinese,4.6
+1970,Burns Inc,Lake Markbury,Fast Food,3.5
+1971,"Walton, Bolton and Johnson",New Felicia,Chinese,3.7
+1972,"Smith, Dawson and Newman",South Kenneth,Chinese,3.7
+1973,Moore-Mcbride,Leonport,Italian,4.6
+1974,Tucker Group,Port Justin,Indian,3.9
+1975,"Kerr, Mullen and Valdez",Kristenshire,Chinese,5.0
+1976,"Griffin, Pope and Snyder",South Lindsey,Chinese,4.9
+1977,Guzman-Flowers,West Bryan,Fast Food,4.9
+1978,Bird LLC,Simmonsshire,Chinese,3.9
+1979,"Brooks, Vargas and Sanders",Port Jessica,Italian,4.6
+1980,"Ortiz, Robinson and Bryant",Nancyland,Italian,3.2
+1981,"Jones, Mcguire and Lawson",Judyberg,Indian,4.6
+1982,Stuart Inc,Floresmouth,Indian,3.9
+1983,Andrews Group,North Carolynport,Fast Food,3.8
+1984,Ramirez Group,East Michaelport,Indian,4.7
+1985,"Cooper, Shaffer and Cummings",Travismouth,Indian,3.3
+1986,Carpenter-Oliver,Ethanborough,Italian,4.5
+1987,Jones-Taylor,Lake Diamondstad,Italian,3.1
+1988,Richardson-Kelly,Clarkville,Fast Food,4.6
+1989,"Rivera, Collins and Bowers",Port David,Chinese,4.8
+1990,"Mercer, Ross and Watson",Jacksonfurt,Italian,3.3
+1991,Atkinson PLC,Lake Samantha,Italian,3.7
+1992,"Brooks, Pope and Wood",Port Michaelshire,Indian,3.5
+1993,Nelson-Parker,Maxmouth,Indian,4.1
+1994,Anderson LLC,Port Kevin,Indian,3.4
+1995,Shepard-Thomas,West Nathan,Fast Food,4.6
+1996,Hensley-Byrd,Port Lindabury,Fast Food,4.1
+1997,"Medina, Rodriguez and Hayes",West Sharon,Indian,4.4
+1998,Eaton-Merritt,Williamsonville,Chinese,3.1
+1999,Arnold-Miller,North Adam,Italian,4.4
+2000,"Price, Michael and Weber",Maryside,Fast Food,4.0
